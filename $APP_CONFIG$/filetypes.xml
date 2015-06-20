@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="" type="HTML" />
       <mapping ext="info" type="Ini" />
-      <mapping ext="xcf" type="Native" />
       <mapping ext="ods" type="Native" />
+      <mapping ext="xcf" type="Native" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
