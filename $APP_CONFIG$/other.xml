@@ -1,0 +1,6 @@
+<application>
+  <component name="LibraryFinderConfigurationComponent">
+    <option name="excludedFolders" value="CVS;SCCS;RCS;rcs;.DS_Store;.svn;vssver.scc;vssver2.scc;.git;.idea" />
+    <option name="openContainingFolderScript" value="konqueror" />
+  </component>
+</application>
