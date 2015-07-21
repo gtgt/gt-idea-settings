@@ -3,4 +3,12 @@
     <option name="excludedFolders" value="CVS;SCCS;RCS;rcs;.DS_Store;.svn;vssver.scc;vssver2.scc;.git;.idea" />
     <option name="openContainingFolderScript" value="konqueror" />
   </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="windows" />
+    <executeWithDefaultAppCommand value="rundll32.exe url.dll,FileProtocolHandler $FilePath$" tokenizerDelims="" />
+    <showInFileManagerCommand value="explorer.exe /select,$FilePath$" tokenizerDelims="" />
+    <openCommandShellInCommand value="cmd /c &quot;$PluginsHome$\NativeNeighbourhood\classes\org\intellij\plugins\nativeNeighbourhood\icons\windows\cmd.bat&quot;" tokenizerDelims="" />
+    <selectInFileManagerName value="Windows Explorer" />
+    <nativeExtensions value="" />
+  </component>
 </application>
