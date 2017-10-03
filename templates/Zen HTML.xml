@@ -211,7 +211,10 @@
   </template>
   <template name="script:src" value="&lt;script type=&quot;text/javascript&quot; src=&quot;$VAR0$&quot;&gt;$END$&lt;/script&gt;" description="&lt;script type=&quot;text/javascript&quot; src=&quot;...&quot;&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JSX_EXPRESSION" value="true" />
+      <option name="JSX_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="form:get" value="&lt;form action=&quot;$VAR0$&quot; method=&quot;get&quot;&gt;$END$&lt;/form&gt;" description="&lt;form action=&quot;...&quot; method=&quot;get&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -355,7 +358,10 @@
   </template>
   <template name="link" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$VAR0$&quot;&gt;" description="&lt;link rel=&quot;stylesheet&quot; href=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JSX_EXPRESSION" value="true" />
+      <option name="JSX_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="input" value="&lt;input type=&quot;$VAR0$&quot;&gt;" description="&lt;input type=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />

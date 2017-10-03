@@ -284,20 +284,7 @@
   <template name="cur:a" value="cursor:auto;" description="cursor:auto;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="oc:i" value="outline-color:invert;" description="outline-color:invert;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="oc:i" value="outline-color:invert;" description="outline-color:invert;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="cur:c" value="cursor:crosshair;" description="cursor:crosshair;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -378,18 +365,6 @@
   </template>
   <template name="tal" value="text-align-last:$VAR0$;" description="text-align-last:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="list:dclz" value="list-style-type:decimal-leading-zero;" description="list-style-type:decimal-leading-zero;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
@@ -406,20 +381,7 @@
   <template name="bdl:n" value="border-left:none;" description="border-left:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="bdl:a" value="border-length:auto;" description="border-length:auto;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="bdl:a" value="border-length:auto;" description="border-length:auto;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="td:u" value="text-decoration:underline;" description="text-decoration:underline;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -547,18 +509,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="tbl:f" value="table-layout:fixed;" description="table-layout:fixed;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
@@ -639,18 +589,6 @@
   </template>
   <template name="rz" value="resize:$VAR0$;" description="resize:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="whsc:bs" value="white-space-collapse:break-strict;" description="white-space-collapse:break-strict;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
@@ -778,34 +716,8 @@
   <template name="bdti:n" value="border-top-image:none;" description="border-top-image:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="bgz:cv" value="background-size:cover;" description="background-size:cover;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="bgz:ct" value="background-size:contain;" description="background-size:contain;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="bgz:cv" value="background-size:cover;" description="background-size:cover;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="bgz:ct" value="background-size:contain;" description="background-size:contain;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="bdbri" value="border-bottom-right-image:url($VAR0$);" description="border-bottom-right-image:url(...);" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
@@ -895,17 +807,7 @@
   </template>
   <template name="bdrs:n" value="border-right-style:none;" description="border-right-style:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="ml:a" value="margin-left:auto;" description="margin-left:auto;" toReformat="true" toShortenFQNames="true" deactivated="true">
@@ -977,38 +879,12 @@
   <template name="bxsh:n" value="box-shadow:none;" description="box-shadow:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="bxsh:m" value="-moz-box-shadow:0 0 0 0 #000;" description="-moz-box-shadow:0 0 0 0 #000;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="bxsh:m" value="-moz-box-shadow:0 0 0 0 #000;" description="-moz-box-shadow:0 0 0 0 #000;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="h" value="height:$VAR0$;" description="height:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="bxsh:w" value="-webkit-box-shadow:0 0 0 #000;" description="-webkit-box-shadow:0 0 0 #000;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="bxsh:w" value="-webkit-box-shadow:0 0 0 #000;" description="-webkit-box-shadow:0 0 0 #000;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="fw:br" value="font-weight:bolder;" description="font-weight:bolder;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1036,20 +912,7 @@
   <template name="fsm:aw" value="font-smooth:always;" description="font-smooth:always;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="m:2" value="margin:0 0;" description="margin:0 0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="m:2" value="margin:0 0;" description="margin:0 0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="wow" value="word-wrap:$VAR0$;" description="word-wrap:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
@@ -1062,51 +925,12 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="m:4" value="margin:0 0 0 0;" description="margin:0 0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="m:0" value="margin:0;" description="margin:0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="m:4" value="margin:0 0 0 0;" description="margin:0 0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="m:0" value="margin:0;" description="margin:0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="pgbb:au" value="page-break-before:auto;" description="page-break-before:auto;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="m:3" value="margin:0 0 0;" description="margin:0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="m:3" value="margin:0 0 0;" description="margin:0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="op:ie" value="filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);" description="filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1141,18 +965,6 @@
   </template>
   <template name="brad" value="-webkit-border-radius: $VAR0$;&#10;-moz-border-radius: $VAR0$;&#10;-ms-border-radius: $VAR0$;&#10;border-radius: $VAR0$;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="coi" value="counter-increment:$VAR0$;" description="counter-increment:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -1237,65 +1049,13 @@
   <template name="lisi:n" value="list-style-image:none;" description="list-style-image:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="rz:v" value="resize:vertical;" description="resize:vertical;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="rz:n" value="resize:none;" description="resize:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="rz:h" value="resize:horizontal;" description="resize:horizontal;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="rz:v" value="resize:vertical;" description="resize:vertical;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="rz:n" value="resize:none;" description="resize:none;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="rz:h" value="resize:horizontal;" description="resize:horizontal;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="mb:a" value="margin-bottom:auto;" description="margin-bottom:auto;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="rz:b" value="resize:both;" description="resize:both;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="rz:b" value="resize:both;" description="resize:both;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="d:rb" value="display:ruby;" description="display:ruby;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1404,20 +1164,7 @@
   <template name="whs:p" value="white-space:pre;" description="white-space:pre;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="wob:bs" value="word-break:break-strict;" description="word-break:break-strict;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="wob:bs" value="word-break:break-strict;" description="word-break:break-strict;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="fw:lr" value="font-weight:lighter;" description="font-weight:lighter;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1460,80 +1207,15 @@
   <template name="ovs:mq" value="overflow-style:marquee;" description="overflow-style:marquee;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="p:4" value="padding:0 0 0 0;" description="padding:0 0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="bgz:a" value="background-size:auto;" description="background-size:auto;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="p:4" value="padding:0 0 0 0;" description="padding:0 0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="bgz:a" value="background-size:auto;" description="background-size:auto;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="bgbk" value="background-break:$VAR0$;" description="background-break:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="p:0" value="padding:0;" description="padding:0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="p:3" value="padding:0 0 0;" description="padding:0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
-  <template name="p:2" value="padding:0 0;" description="padding:0 0;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="p:0" value="padding:0;" description="padding:0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="p:3" value="padding:0 0 0;" description="padding:0 0 0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="p:2" value="padding:0 0;" description="padding:0 0;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="whs:pw" value="white-space:pre-wrap;" description="white-space:pre-wrap;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1554,20 +1236,7 @@
   <template name="wob:n" value="word-break:normal;" description="word-break:normal;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="wob:l" value="word-break:loose;" description="word-break:loose;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="wob:l" value="word-break:loose;" description="word-break:loose;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="wob:k" value="word-break:keep-all;" description="word-break:keep-all;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1588,18 +1257,6 @@
   </template>
   <template name="oo" value="outline-offset:$VAR0$;" description="outline-offset:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="bga" value="background-attachment:$VAR0$;" description="background-attachment:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -1611,34 +1268,9 @@
   <template name="cl:r" value="clear:right;" description="clear:right;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="oc" value="outline-color:#000;" description="outline-color:#000;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="oc" value="outline-color:#000;" description="outline-color:#000;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="o" value="outline:$VAR0$;" description="outline:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="bgo" value="background-origin:$VAR0$;" description="background-origin:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -1659,51 +1291,15 @@
   </template>
   <template name="ow" value="outline-width:$VAR0$;" description="outline-width:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="cl:b" value="clear:both;" description="clear:both;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
   <template name="bgz" value="background-size:$VAR0$;" description="background-size:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="os" value="outline-style:$VAR0$;" description="outline-style:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="op" value="opacity:$VAR0$;" description="opacity:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -1801,18 +1397,6 @@
   </template>
   <template name="bdrz" value="border-radius:$VAR0$;" description="border-radius:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="bdrs" value="border-right-style:$VAR0$;" description="border-right-style:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -1838,20 +1422,7 @@
   <template name="femp:b" value="font-emphasize-position:before;" description="font-emphasize-position:before;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="o:n" value="outline:none;" description="outline:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
-  </template>
+  <template name="o:n" value="outline:none;" description="outline:none;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="pgba:l" value="page-break-after:left;" description="page-break-after:left;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -1875,18 +1446,6 @@
   </template>
   <template name="bdi:m" value="-moz-border-image:url($VAR0$) 0 0 0 0 stretch stretch;" description="-moz-border-image:url(...) 0 0 0 0 stretch stretch;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="bdi:n" value="border-image:none;" description="border-image:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
@@ -1899,18 +1458,6 @@
   </template>
   <template name="bdi:w" value="-webkit-border-image:url($VAR0$) 0 0 0 0 stretch stretch;" description="-webkit-border-image:url(...) 0 0 0 0 stretch stretch;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
   </template>
   <template name="fza:n" value="font-size-adjust:none;" description="font-size-adjust:none;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />

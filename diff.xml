@@ -1,4 +1,5 @@
 <application>
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -7,6 +8,19 @@
       <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings />
       </entry>
@@ -25,6 +39,22 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Merge">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
