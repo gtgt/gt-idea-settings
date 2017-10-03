@@ -5,11 +5,6 @@
       <PhpCSConfiguration tool_path="$USER_HOME$/www/_codelib/pear-core/packages/PHP_CodeSniffer/scripts/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="0d197d55-0eb9-4ade-9a84-49de0db93f62" name="local-default" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="local-default">
