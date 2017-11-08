@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[ed-webshop] - .../ed-common/src/EdigitalCore'" />
-    <option name="defaultScopeName" value="Directory '[ed-webshop] - .../ed-common/src/EdigitalCore'" />
-    <option name="SEARCH_SCOPE" value="Directory '[ed-webshop] - .../ed-common/src/EdigitalCore'" />
+    <option name="customScope" value="Directory '[ed-octoplus] - .../op-common/src'" />
+    <option name="defaultScopeName" value="Directory '[ed-octoplus] - .../op-common/src'" />
+    <option name="SEARCH_SCOPE" value="Directory '[ed-octoplus] - .../op-common/src'" />
     <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
       <mask>*.properties</mask>
