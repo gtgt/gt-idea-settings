@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,7 +17,6 @@
       <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
-      <mask>*.xlf</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.</mask>
@@ -27,6 +27,7 @@
       <mask>*.html.php</mask>
       <mask>*.php</mask>
       <mask>*.yml</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
