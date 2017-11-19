@@ -1,7 +1,0 @@
-<application>
-  <component name="CssXFireConnector">
-    <option name="mediaReduce" value="true" />
-    <option name="smartReduce" value="true" />
-    <option name="version" value="1.38" />
-  </component>
-</application>

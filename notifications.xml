@@ -12,6 +12,7 @@
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Usage Statistics" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" />
     <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
     <notification groupId="LESS Compiler Error Messages" displayType="STICKY_BALLOON" />

@@ -1,8 +1,21 @@
 <application>
   <component name="atlassian-ide-plugin">
+    <option name="JIRAConfigurationData">
+      <JiraConfigurationBean>
+        <option name="pageSize" value="50" />
+        <option name="synchronizeWithIntelliJTasks" value="true" />
+      </JiraConfigurationBean>
+    </option>
+    <option name="bambooConfigurationData">
+      <BambooConfigurationBean>
+        <option name="bambooTooltipOption" value="First build failure and first build success" />
+      </BambooConfigurationBean>
+    </option>
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="false" />
+        <option name="checkNowButtonOption" value="STABLE_AND_SNAPSHOT" />
+        <option name="checkUnstableVersionsEnabled" value="true" />
         <option name="statsCountersMap">
           <map>
             <entry key="a" value="0" />
@@ -11,7 +24,7 @@
             <entry key="r" value="0" />
           </map>
         </option>
-        <option name="uid" value="1507073112846" />
+        <option name="uid" value="1488199513813" />
       </GeneralConfigurationBean>
     </option>
   </component>
