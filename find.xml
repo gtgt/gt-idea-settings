@@ -24,9 +24,9 @@
       <mask>*.sql</mask>
       <mask>*.js</mask>
       <mask>*.xlf</mask>
-      <mask>*.php</mask>
       <mask>*.html.php</mask>
       <mask>*.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
