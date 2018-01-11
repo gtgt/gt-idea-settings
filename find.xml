@@ -23,10 +23,10 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.js</mask>
-      <mask>*.xlf</mask>
       <mask>*.html.php</mask>
       <mask>*.yml</mask>
       <mask>*.php</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
