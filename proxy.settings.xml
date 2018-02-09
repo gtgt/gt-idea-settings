@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="kani.hu" />
+    <option name="PROXY_PORT" value="888" />
+  </component>
+</application>
