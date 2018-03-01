@@ -97,5 +97,6 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="meta f2" />
   </action>
 </keymap>
