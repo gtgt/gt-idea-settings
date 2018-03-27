@@ -1,35 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="CompareFileWithEditor" is_action="true" action_type="-1" position="33">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareTwoFiles" is_action="true" action_type="-1" position="32">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="31">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="-1" position="25">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="23">
       <path value="root" />
       <path value="Navigation Bar" />
@@ -50,6 +20,90 @@
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GitLabGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GitLabGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GitLabGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PublishGroupPopupMenu" is_group="true" action_type="1" position="0">
@@ -74,6 +128,13 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.Stash" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -84,7 +145,7 @@
       <path value="Navigation Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CommittedChanges.Revert" is_action="true" action_type="1" position="5">
+    <group value="Git.Unstash" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
@@ -101,6 +162,13 @@
       <path value="Navigation Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.Tag" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -114,6 +182,13 @@
     <group value="PublishGroup.CompareLocalVsRemote" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CommittedChanges.Revert" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PublishGroup.Upload" is_action="true" action_type="1" position="8">
@@ -186,6 +261,11 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Scratch.NewScratch" is_action="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -209,11 +289,6 @@
     <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="22">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="23">
@@ -251,5 +326,8 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Git.Stash" icon="/opt/jetbrains-icons/vcs/Shelve.png" />
+    <action id="Git.Unstash" icon="/opt/jetbrains-icons/vcs/Unshelve.png" />
+    <action id="Git.Tag" icon="/opt/jetbrains-icons/toolbarDecorator/add.png" />
   </component>
 </application>
