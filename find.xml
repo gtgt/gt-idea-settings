@@ -2,33 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install</mask>
-      <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
-      <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
-      <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.js</mask>
-      <mask>*.xlf</mask>
-      <mask>*.html.php</mask>
-      <mask>*.sql</mask>
-      <mask>*.php</mask>
-      <mask>*.yml</mask>
-    </recentFileMasks>
   </component>
 </application>
