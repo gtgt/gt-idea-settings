@@ -1,5 +1,20 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VersionControlsGroup" is_group="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ChangesView.Revert" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -29,12 +44,24 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.Stash" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CommittedChanges.Revert" is_action="true" action_type="1" position="5">
+    <group value="VersionControlsGroup" is_group="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Unstash" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
@@ -46,9 +73,31 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Tag" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Undo" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PublishGroup.CompareLocalVsRemote" is_action="true" action_type="1" position="7">
@@ -56,9 +105,26 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="$Redo" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CommittedChanges.Revert" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PublishGroup.Upload" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PublishGroup.Download" is_action="true" action_type="1" position="9">
@@ -81,9 +147,19 @@
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.ContextMenu" is_group="true" action_type="1" position="12">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowReformatFileDialog" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="LocalHistory" is_group="true" action_type="1" position="13">
@@ -91,9 +167,19 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CommentByLineComment" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CommentByBlockComment" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangesView.Shelve" is_action="true" action_type="1" position="15">
@@ -106,75 +192,36 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="1" position="17">
+    <group value="VersionControlsGroup" is_group="true" action_type="1" position="17">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="18">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="18">
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="19">
+    <group seperator="true" action_type="1" position="19">
       <path value="root" />
-      <path value="Main Toolbar" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="20">
+    <group value="CompareTwoFiles" is_action="true" action_type="1" position="20">
       <path value="root" />
-      <path value="Main Toolbar" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="21">
+    <group value="CompareFileWithEditor" is_action="true" action_type="1" position="21">
       <path value="root" />
-      <path value="Main Toolbar" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="22">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="23">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="24">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="1" position="25">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.CompareLocalVsRemote" is_action="true" action_type="1" position="26">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="27">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="28">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.Download" is_action="true" action_type="1" position="29">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
+    <action id="CommentByBlockComment" icon="/opt/jetbrains-icons/actions/GroupByClass_dark.png" />
+    <action id="CommentByLineComment" icon="/opt/jetbrains-icons/actions/GroupByClass.png" />
+    <action id="Git.Stash" icon="/opt/jetbrains-icons/vcs/Shelve.png" />
+    <action id="Git.Unstash" icon="/opt/jetbrains-icons/vcs/Unshelve.png" />
+    <action id="ShowReformatFileDialog" icon="/opt/jetbrains-icons/actions/quickfixOffBulb.png" />
+    <action id="Git.Tag" icon="/opt/jetbrains-icons/toolbarDecorator/add.png" />
   </component>
 </application>
