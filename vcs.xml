@@ -26,6 +26,6 @@
     <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/www/ed-webshop-lab/ed-common/vendor/edigital-dev/lucene-bundle" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/www/ed-webshop" />
   </component>
 </application>
