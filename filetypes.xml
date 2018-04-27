@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".arcconfig" type="JSON" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
