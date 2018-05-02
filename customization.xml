@@ -218,10 +218,12 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="CommentByBlockComment" icon="/opt/jetbrains-icons/actions/GroupByClass_dark.png" />
+    <action id="LocalHistory.ShowHistory" icon="/opt/jetbrains-icons/vcs/history.png" />
     <action id="CommentByLineComment" icon="/opt/jetbrains-icons/actions/GroupByClass.png" />
     <action id="Git.Stash" icon="/opt/jetbrains-icons/vcs/Shelve.png" />
     <action id="Git.Unstash" icon="/opt/jetbrains-icons/vcs/Unshelve.png" />
     <action id="ShowReformatFileDialog" icon="/opt/jetbrains-icons/actions/quickfixOffBulb.png" />
     <action id="Git.Tag" icon="/opt/jetbrains-icons/toolbarDecorator/add.png" />
+    <action id="CloseProject" icon="/opt/jetbrains-icons/windows/closeActive.png" />
   </component>
 </application>
