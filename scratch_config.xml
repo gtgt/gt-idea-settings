@@ -3,7 +3,7 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.php" />
+        <option value="json.json" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
