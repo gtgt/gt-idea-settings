@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.xlf</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
