@@ -102,6 +102,9 @@
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="CODING_STANDARD" value="moodle" />
   </inspection_tool>
+  <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REQUIRE_BUNDLED_EXTENSIONS" value="false" />
+  </inspection_tool>
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
