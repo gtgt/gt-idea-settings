@@ -1,14 +1,13 @@
 <application>
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
-    <option name="UI_FILTER_LEGALS" value="true" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="30" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
-    <option name="FONT_SCALE" value="1.0833334" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="15" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
