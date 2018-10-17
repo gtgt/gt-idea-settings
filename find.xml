@@ -16,5 +16,6 @@
     <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
