@@ -1,13 +1,28 @@
 <templateSet group="user">
-  <template name="$this" value="var $this = $(this);&#10;" description="Declare $his" toReformat="false" toShortenFQNames="true">
+  <template name="$this" value="var $this = $(this);&#10;" description="Declare $this" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="$.each" value="$.each($ARRAY$, function(i) {&#10;&#9;$END$&#10;});" description="$.each on value" toReformat="false" toShortenFQNames="true">
+  <template name="$.each" value="$.each($ARRAY$, function(i) {&#10;&#9;$END$&#10;});" description="$.each on value" toReformat="true" toShortenFQNames="true">
     <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="aenum" value="\Virgo\CoreBundle\Enum\AbstractEnum|" description="Inserts AbstractEnum class fqdn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="enumcreate" value="@method static static create(string $value)" description="Enum static create @method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="slugable" value="\Virgo\ContentBundle\Entity\SlugableInterface|" description="Inserts AbstractEnum class fqdn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
     </context>
   </template>
 </templateSet>

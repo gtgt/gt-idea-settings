@@ -99,4 +99,8 @@
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
 </keymap>

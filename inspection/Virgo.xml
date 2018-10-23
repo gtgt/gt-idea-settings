@@ -1,6 +1,7 @@
 <profile version="1.0">
   <option name="myName" value="Virgo" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AlterInForeachInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckImageSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -53,7 +54,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="10">
+        <list size="11">
           <item index="0" class="java.lang.String" itemvalue="suggest" />
           <item index="1" class="java.lang.String" itemvalue="confirm" />
           <item index="2" class="java.lang.String" itemvalue="toggle" />
@@ -64,6 +65,7 @@
           <item index="7" class="java.lang.String" itemvalue="for" />
           <item index="8" class="java.lang.String" itemvalue="{confirm}" />
           <item index="9" class="java.lang.String" itemvalue="{autotest}" />
+          <item index="10" class="java.lang.String" itemvalue="href" />
         </list>
       </value>
     </option>
@@ -101,6 +103,9 @@
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="CODING_STANDARD" value="moodle" />
   </inspection_tool>
+  <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REQUIRE_BUNDLED_EXTENSIONS" value="false" />
+  </inspection_tool>
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -137,6 +142,7 @@
         <option value="behat/behat" />
         <option value="brianium/paratest" />
         <option value="codeception/codeception" />
+        <option value="codedungeon/phpunit-result-printer" />
         <option value="composer/composer" />
         <option value="filp/whoops" />
         <option value="friendsofphp/php-cs-fixer" />
@@ -165,6 +171,7 @@
         <option value="satooshi/php-coveralls" />
         <option value="sebastian/phpcpd" />
         <option value="slevomat/coding-standard" />
+        <option value="spatie/phpunit-watcher" />
         <option value="squizlabs/php_codesniffer" />
         <option value="sstalle/php7cc" />
         <option value="symfony/debug" />

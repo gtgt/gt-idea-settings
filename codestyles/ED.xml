@@ -17,6 +17,24 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="CORTEGE_CLOSING" value="1" />
+    <option name="WRAP_INSIDE_CREATE_TABLE" value="1" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
@@ -26,6 +44,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="250" />
+    <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
