@@ -15,8 +15,8 @@
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*.xlf</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
     <mask>*.js</mask>
   </component>
 </application>
