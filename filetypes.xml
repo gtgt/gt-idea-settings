@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="drun" type="Bash" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping pattern="console" type="PHP" />
