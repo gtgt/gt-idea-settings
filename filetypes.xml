@@ -5,6 +5,8 @@
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml.dist" type="YAML" />
+      <mapping pattern="*.yaml.dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
