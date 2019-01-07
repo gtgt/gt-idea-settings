@@ -15,8 +15,8 @@
     <mask>*.xlf</mask>
     <mask>*.sql</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
