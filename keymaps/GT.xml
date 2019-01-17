@@ -66,6 +66,11 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Scratch.OpenScratchList">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
