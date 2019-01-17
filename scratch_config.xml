@@ -7,9 +7,10 @@
         <option value="scratch.json" />
         <option value="scratch.css" />
         <option value="txt.txt" />
+        <option value="php.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="php.php" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
