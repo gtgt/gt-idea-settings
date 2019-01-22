@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T19:05:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-22T22:08:57</property>
+    <property name="modified">2019-01-22T22:52:05</property>
     <property name="originalScheme">GT copy</property>
   </metaInfo>
   <colors>
@@ -25,6 +25,7 @@
     <option name="INFORMATION_HINT" value="393939" />
     <option name="MODIFIED_LINES_COLOR" value="8693b3" />
     <option name="NOTIFICATION_BACKGROUND" value="404040" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="eeeeee" />
     <option name="SELECTED_INDENT_GUIDE" value="585858" />
     <option name="SELECTED_TEARLINE_COLOR" value="4f4f4f" />
@@ -68,6 +69,12 @@
         <option name="FOREGROUND" value="d6d6d6" />
       </value>
     </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3a2323" />
+        <option name="ERROR_STRIPE_COLOR" value="664233" />
+      </value>
+    </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
         <option name="EFFECT_COLOR" value="685d91" />
@@ -109,6 +116,18 @@
       </value>
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="666d75" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="7b94b3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BRACES">
       <value>
@@ -164,7 +183,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="9aceff" />
+        <option name="FOREGROUND" value="3688ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -193,7 +212,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
+        <option name="FOREGROUND" value="ff3c3d" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -274,6 +293,21 @@
         <option name="EFFECT_COLOR" value="ff6d68" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="424242" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="474747" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2d6099" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -365,6 +399,11 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="a6a6a6" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2f3f55" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
