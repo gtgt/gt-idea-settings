@@ -15,62 +15,6 @@
       <path value="Navigation Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GitLabGroup" is_group="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GitLabGroup" is_group="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="PublishGroupPopupMenu" is_group="true" action_type="1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
