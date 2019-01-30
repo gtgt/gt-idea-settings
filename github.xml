@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="9f9131b8-0af5-4263-ad8b-c967541dd3a3" name="gtgt">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="gtgt" />
     <option name="AUTH_TYPE" value="BASIC" />
