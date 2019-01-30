@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T19:05:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-22T22:52:05</property>
+    <property name="modified">2019-01-31T00:11:37</property>
     <property name="originalScheme">GT copy</property>
   </metaInfo>
   <colors>
@@ -11,6 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="2f2f2f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="656e76" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="525252" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="33403b" />
@@ -75,9 +76,54 @@
         <option name="ERROR_STRIPE_COLOR" value="664233" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="94bbf6" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3688ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bf595e" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fe5fff" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd46c9" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d9e8f9" />
+      </value>
+    </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
         <option name="EFFECT_COLOR" value="685d91" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffacbd" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff3c3d" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="659bff" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -183,8 +229,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="3688ff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="659bff" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -232,7 +277,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="b119" />
+        <option name="FOREGROUND" value="7cb081" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -387,6 +432,16 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff424e" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbc7d6" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a8cdff" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
