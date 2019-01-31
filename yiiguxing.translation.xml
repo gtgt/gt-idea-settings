@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="3 days left" />
       <item value="gewährleisen" />
       <item value="nur die verwendung von" />
       <item value="ablaufdatum des" />
@@ -10,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
       </map>
     </option>
   </component>
