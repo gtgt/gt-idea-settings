@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batch" />
       <item value="3 days left" />
       <item value="gewährleisen" />
       <item value="nur die verwendung von" />
@@ -12,6 +13,7 @@
       <map>
         <entry key="ENGLISH" value="3" />
         <entry key="GERMAN" value="2" />
+        <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
