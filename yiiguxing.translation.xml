@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please add task template with the following security weakness to see proper description" />
       <item value="syncronously" />
       <item value="batchmaker" />
       <item value="slicer" />
@@ -15,9 +16,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="GERMAN" value="2" />
-        <entry key="HUNGARIAN" value="5" />
+        <entry key="HUNGARIAN" value="6" />
       </map>
     </option>
   </component>
