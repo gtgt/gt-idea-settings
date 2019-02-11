@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T19:05:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-07T17:50:18</property>
+    <property name="modified">2019-02-11T13:11:54</property>
     <property name="originalScheme">GT copy</property>
   </metaInfo>
   <colors>
@@ -13,7 +13,7 @@
     <option name="CARET_ROW_COLOR" value="2f2f2f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="656e76" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="525252" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="414141" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="33403b" />
     <option name="GUTTER_BACKGROUND" value="414141" />
     <option name="HTML_TAG_TREE_LEVEL0" value="360000" />
@@ -300,26 +300,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="bd9d97" />
+        <option name="BACKGROUND" value="786260" />
         <option name="ERROR_STRIPE_COLOR" value="f1bfb4" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="a0a0a0" />
+        <option name="BACKGROUND" value="656565" />
         <option name="ERROR_STRIPE_COLOR" value="c5c5c5" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="5a6c5a" />
+        <option name="BACKGROUND" value="354335" />
         <option name="ERROR_STRIPE_COLOR" value="bcf7bc" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="8995ac" />
-        <option name="ERROR_STRIPE_COLOR" value="afc1ea" />
+        <option name="BACKGROUND" value="5f6a77" />
+        <option name="ERROR_STRIPE_COLOR" value="b6c2e7" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
