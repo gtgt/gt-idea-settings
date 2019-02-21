@@ -3,10 +3,12 @@
     <extensionMap>
       <mapping pattern="drun" type="Bash" />
       <mapping pattern=".arcconfig" type="JSON" />
+      <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.policy.bak" type="XML" />
       <mapping ext="policy" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
