@@ -79,7 +79,7 @@
       <webServer id="c7b06493-28e2-467b-ab0a-91a64c1648d0" name="kani.hu.ssh" url="http://kani.hu/">
         <fileTransfer host="kani.hu" port="222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" />
           </advancedOptions>
           <option name="port" value="222" />
         </fileTransfer>
