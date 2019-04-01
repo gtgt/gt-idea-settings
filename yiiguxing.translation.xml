@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Impressionen Vergleich letzte Woche" />
+      <item value="Aufrufe Gesamt Vergleich letzte Monat" />
+      <item value="aufrufe" />
       <item value="Settings Bundle" />
       <item value="query cache ns" />
       <item value="Please add task template with the following security weakness to see proper description" />
@@ -19,7 +22,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="9" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="5" />
         <entry key="HUNGARIAN" value="6" />
       </map>
     </option>
