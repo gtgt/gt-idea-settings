@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metric" />
       <item value="All locations" />
       <item value="All location" />
       <item value="Location" />
@@ -53,7 +54,7 @@
       <map>
         <entry key="ENGLISH" value="12" />
         <entry key="GERMAN" value="12" />
-        <entry key="HUNGARIAN" value="6" />
+        <entry key="HUNGARIAN" value="7" />
       </map>
     </option>
   </component>
