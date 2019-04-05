@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="foglalkozni" />
+      <item value="broter" />
+      <item value="brother" />
       <item value="Metric" />
       <item value="All locations" />
       <item value="All location" />
@@ -48,13 +51,12 @@
       <item value="nur die verwendung von" />
       <item value="ablaufdatum des" />
       <item value="Ist ein ssl certifiat vorhanden" />
-      <item value="security check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="GERMAN" value="12" />
-        <entry key="HUNGARIAN" value="7" />
+        <entry key="HUNGARIAN" value="8" />
       </map>
     </option>
   </component>
