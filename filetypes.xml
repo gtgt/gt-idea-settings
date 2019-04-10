@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="drun" type="Bash" />
+      <mapping ext="message" type="HTML" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
@@ -13,6 +14,7 @@
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
