@@ -15,10 +15,10 @@
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.twig</mask>
-    <mask>*.xlf</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.scss</mask>
+    <mask>*.xlf</mask>
     <mask>*.js</mask>
   </component>
 </application>
