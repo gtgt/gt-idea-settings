@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Review" />
+      <item value="Bewertung" />
       <item value="evict" />
       <item value="partial" />
       <item value="foglalkozni" />
@@ -30,7 +32,6 @@
       <item value="sinvall" />
       <item value="möglich" />
       <item value="sodass" />
-      <item value="Bewertung" />
       <item value="ereignisse" />
       <item value="durchschnittl Sternwewertung" />
       <item value="durchschnittl" />
@@ -50,12 +51,11 @@
       <item value="batch" />
       <item value="3 days left" />
       <item value="gewährleisen" />
-      <item value="nur die verwendung von" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="13" />
-        <entry key="GERMAN" value="13" />
+        <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="9" />
       </map>
     </option>
