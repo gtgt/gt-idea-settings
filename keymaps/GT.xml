@@ -87,6 +87,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl r" />
