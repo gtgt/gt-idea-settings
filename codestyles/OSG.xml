@@ -1,9 +1,174 @@
 <code_scheme name="OSG" version="173">
   <option name="RIGHT_MARGIN" value="195" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <DB2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
@@ -15,6 +180,52 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <PostgresCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="ALIAS_CASE" value="1" />
@@ -40,6 +251,30 @@
     <option name="CORTEGE_CLOSING" value="1" />
     <option name="WRAP_INSIDE_CREATE_TABLE" value="1" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="CORTEGE_CLOSING" value="1" />
+  </SybaseCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
