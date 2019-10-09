@@ -5,6 +5,13 @@
         <item value="$USER_HOME$/www/visionsofjoana/docker-compose.yml" />
       </dockerComposeConfigurationPaths>
       <envs />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$USER_HOME$/www/visionsofjoana" remote-root="/opt/project" />
+          </list>
+        </option>
+      </PathMappingSettings>
     </interpreter>
   </component>
 </application>
