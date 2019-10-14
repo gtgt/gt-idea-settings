@@ -1,14 +1,21 @@
-<code_scheme name="Virgo">
+<code_scheme name="Virgo" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="CONCAT_SPACES" value="false" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-    <option name="PHPDOC_THROWS_CALL_TREE_ANALYSIS_DEPTH" value="2" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="JAVA">
