@@ -1,10 +1,12 @@
 <code_scheme name="Virgo" version="173">
+  <option name="RIGHT_MARGIN" value="240" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="IMPORTS_WRAP" value="0" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
@@ -24,6 +26,14 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="240" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <indentOptions>
