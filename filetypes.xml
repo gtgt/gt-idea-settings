@@ -4,6 +4,7 @@
       <mapping pattern="drun" type="Bash" />
       <mapping ext="message" type="HTML" />
       <mapping pattern=".arcconfig" type="JSON" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
