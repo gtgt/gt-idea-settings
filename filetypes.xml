@@ -10,12 +10,15 @@
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.smarty.conf" type="SmartyConfig" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping pattern="*.policy.bak" type="XML" />
       <mapping ext="policy" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
