@@ -1,4 +1,10 @@
 <code_scheme name="Virgo" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <option name="RIGHT_MARGIN" value="240" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <HTMLCodeStyleSettings>
