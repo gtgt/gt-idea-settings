@@ -1,11 +1,7 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;Droid Sans&quot;;&#10;    font-size: 90%;&#10;}" />
-    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only">
-      <HtmlPanelProviderInfo>
-        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
-      </HtmlPanelProviderInfo>
-    </MarkdownPreviewSettings>
+    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;Droid Sans&quot;;&#10;    font-size: 90%;&#10;}" />
+    <MarkdownPreviewSettings VerticalSplit="false" />
   </component>
   <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="false" autoLinks="false" wikiLinks="false" tables="false" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="false" />
 </application>
