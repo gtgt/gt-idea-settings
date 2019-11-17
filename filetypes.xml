@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="drun" type="Bash" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="message" type="HTML" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="mp4" type="Native" />
@@ -17,10 +19,9 @@
       <mapping ext="xlf" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
-      <mapping ext="conf" type="nginx file type" />
-      <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
