@@ -29,7 +29,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d7ff6293-8d9d-4569-a852-744512e1b976" name="kani.hu" url="http://kani.hu/">
-        <fileTransfer host="kani.hu" port="2121" rootFolder="/www" accessType="FTPS">
+        <fileTransfer host="kani.hu" port="2121" rootFolder="/var/www" accessType="FTPS">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
