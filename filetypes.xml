@@ -20,6 +20,7 @@
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
