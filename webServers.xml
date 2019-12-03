@@ -17,9 +17,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="c0ea8520-6e2e-418c-96c7-1eea7f0388c3" name="develop" url="http://develop.digicable.hu">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="b3034159-7d1f-4879-949a-67607f08a619" name="ticket" url="http://ticket.digicable.hu">
         <fileTransfer host="ticket.digicable.hu" port="21">
           <advancedOptions>
@@ -142,15 +139,6 @@
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
-      </webServer>
-      <webServer id="d61c1c1c-ce57-4f5c-88e6-5a503c931b0b" name="develop_php5.4" url="http://develop.digicable.hu:54">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="25f3f8f4-bf75-41e4-8935-6f1a797e0523" name="develop_php5.5" url="http://develop.digicable.hu:55">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="696a040f-24ee-475b-b030-91ebca2823a8" name="develop_php5.3" url="http://develop.digicable.hu:5300">
-        <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="51673edc-a7dc-4fd6-937a-1e3d0e58cad8" name="aukcio.digi.hu" url="http://aukcio.digi.hu">
         <fileTransfer host="aukcio.digi.hu" port="21" rootFolder="/aukcio.digi.hu/public_html/">
