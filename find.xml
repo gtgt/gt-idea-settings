@@ -20,5 +20,6 @@
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.tpl.php</mask>
   </component>
 </application>
