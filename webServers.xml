@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="490f2cd8-ac42-48e4-bb47-143d6daf28c2" name="digi.hu" url="http://digiadmin.digicable.hu">
-        <fileTransfer host="digiadmin.digicable.hu" port="21">
+        <fileTransfer host="digiadmin.digicable.hu" port="21" rootFolder="/digi.hu">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -160,6 +160,14 @@
         <fileTransfer host="statisztika.digicable.hu" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ae12fe84-9789-4d45-a62a-9591ea4cfb78" name="sales.digi.hu" url="http://digiadmin.digicable.hu">
+        <fileTransfer host="digiadmin.digicable.hu" port="21" rootFolder="/sales.digi.hu">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
