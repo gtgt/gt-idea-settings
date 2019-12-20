@@ -1,15 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="drun" type="Bash" />
       <mapping ext="message" type="HTML" />
+      <mapping ext="info" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
+      <mapping ext="map" type="JSON" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.smarty.conf" type="SmartyConfig" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping pattern="*.policy.bak" type="XML" />
       <mapping ext="policy" type="XML" />
       <mapping ext="xlf" type="XML" />
@@ -19,7 +22,7 @@
       <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="*.smarty.conf" type="SmartyConfig" />
+      <mapping pattern="drun" type="Bash" />
     </extensionMap>
   </component>
 </application>
