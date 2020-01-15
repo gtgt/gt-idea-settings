@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mobile complaints" />
       <item value="prior" />
       <item value="Eager" />
       <item value="Review" />
@@ -50,13 +51,12 @@
       <item value="batchmaker" />
       <item value="slicer" />
       <item value="occured" />
-      <item value="batch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="14" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="11" />
+        <entry key="HUNGARIAN" value="12" />
       </map>
     </option>
   </component>
