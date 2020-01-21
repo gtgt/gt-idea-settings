@@ -11,9 +11,10 @@
         <option value="html.html" />
         <option value="rest-api.http" />
         <option value="js.js" />
+        <option value="html2.html" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="php.php" />
+    <option name="lastOpenedScratch" value="html2.html" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
