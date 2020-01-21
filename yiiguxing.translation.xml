@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="function digi_theme_token_info() { module_load_include('inc', 'digi_theme', 'digi_theme.image_token'); $info = digi_theme_image_token_token_info(); $info['types']['theme'] = array( 'name' =&gt; 'Theme tokens', 'description' =&gt; '', ); $info['tokens']['theme']['t'] = array( 'name' =&gt; t('Translate'), 'description' =&gt; 'Usage: [theme:t:&amp;lt;text&amp;gt;:&amp;lt;key1=val1&amp;gt;:&amp;lt;key2=val2&amp;gt;]', 'dynamic' =&gt; true, ); $info['tokens']['theme']['icon'] = array( 'name' =&gt; t('Theme icon'), 'description' =&gt; 'Usage: [theme:icon:&amp;lt;icon name&amp;gt;:&amp;lt;icon extra class&amp;gt;:&amp;lt;icon extra attrib&amp;gt;]', 'dynamic' =&gt; true, ); $info['tokens']['theme']['img'] = array( 'name' =&gt; t('Theme image'), 'description' =&gt; 'Usage: [theme:img-url:&amp;lt;img filename&amp;gt;:&amp;lt;img extra class&amp;gt;:&amp;lt;img extra attrib&amp;gt;]', 'dynamic' =&gt; true, ); $info['tokens']['theme']['img-url'] = array( 'name' =&gt; t('Theme image URL'), 'description' =&gt; 'Usage: [theme:img-url:&amp;lt;img filename&amp;gt;]', 'dynamic' =&gt; true, ); $info['tokens']['current-page']['path-to-keywords'] = array( 'name' =&gt; 'Path to keywords (path parts separated by comma)', 'description' =&gt; 'Usage: [current-page:path-to-keywords]', 'dynamic' =&gt; true, ); $info['tokens']['current-page']['original-url'] = array( 'name' =&gt; 'Contains the original request path, before path rewrites (usually what user see on location bar).', 'description' =&gt; 'Usage: [current-page:original-url]', 'type' =&gt; 'url', ); $info['types']['views'] = array( 'name' =&gt; t('Views'), 'description' =&gt; ('Tokens to embed views.'), ); $info['tokens']['views']['embed'] = array( 'name' =&gt; t('Embed views'), 'description' =&gt; t('Embed views using tokens. The following values may be appended to the token: view-name:display-id:arg1:arg2:arg3'), 'dynamic' =&gt; TRUE, ); $info['tokens']['digi']['discount-offer-view'] = array( 'name' =&gt; t('Embed offer view'), 'description' =&gt; t('Embed offer views using tokens. The following values may be appended to the token: [digi:discount-offer-view:&amp;lt;id&amp;gt;:&amp;lt;columns&amp;gt;:&amp;lt;hűségidő&amp;gt;:&amp;lt;order link&amp;gt;]'), 'dynamic' =&gt; TRUE, ); return $info; }" />
       <item value="mobile complaints" />
       <item value="prior" />
       <item value="Eager" />
@@ -50,11 +51,10 @@
       <item value="syncronously" />
       <item value="batchmaker" />
       <item value="slicer" />
-      <item value="occured" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="12" />
       </map>
