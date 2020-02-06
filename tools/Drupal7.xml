@@ -1,0 +1,9 @@
+<toolSet name="Drupal7">
+  <tool name="cache-clear" description="Clears all cache" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/bin/drush8" />
+      <option name="PARAMETERS" value="cc all" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

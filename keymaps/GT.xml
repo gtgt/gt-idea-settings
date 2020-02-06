@@ -141,6 +141,10 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
+  <action id="Tool_Drupal7_cache-clear">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="Tool_External Tools_cs-fix-file">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
