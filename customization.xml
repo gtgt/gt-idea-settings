@@ -1,23 +1,90 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="23">
+    <group value="CompareFileWithEditor" is_action="true" action_type="-1" position="29">
       <path value="root" />
-      <path value="Navigation Bar" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="-1" position="22">
+    <group value="PublishGroupPopupMenu" is_group="true" action_type="-1" position="28">
       <path value="root" />
-      <path value="Navigation Bar" />
+      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="21">
+    <group value="CompareTwoFiles" is_action="true" action_type="-1" position="28">
       <path value="root" />
-      <path value="Navigation Bar" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_cs-fix-file" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_Drupal7_cache-clear" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="External Tools" />
+      <path value="Drupal7" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PublishGroupPopupMenu" is_group="true" action_type="1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_cs-fix-file" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_Drupal7_cache-clear" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="External Tools" />
+      <path value="Drupal7" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_cs-fix-file" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_Drupal7_cache-clear" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="Drupal7" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_cs-fix-file" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_Drupal7_cache-clear" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="External Tools" />
+      <path value="Drupal7" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="2">
@@ -49,19 +116,9 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CommittedChanges.Revert" is_action="true" action_type="1" position="6">
@@ -74,11 +131,6 @@
     <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$Undo" is_action="true" action_type="1" position="7">
@@ -180,9 +232,9 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="1" position="41">
+    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="24">
       <path value="root" />
-      <path value="Project View Popup Menu" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="CommentByBlockComment" icon="/opt/jetbrains-icons/actions/GroupByClass_dark.png" />
