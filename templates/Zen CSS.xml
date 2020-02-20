@@ -243,6 +243,7 @@
   </template>
   <template name="wid" value="widows:$VAR0$;" description="widows:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="bgi" value="background-image:url($VAR0$);" description="background-image:url(...);" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
