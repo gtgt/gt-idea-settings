@@ -7,11 +7,13 @@
       <blacklist language="XML" />
       <blacklist language="JavaScript" />
       <blacklist language="PHP">
-        <added pattern="*" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
       <blacklist language="SQL" />
     </blacklists>
+    <disabledLanguages>
+      <language id="PHP" />
+    </disabledLanguages>
   </component>
 </application>
