@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T19:05:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-11-27T16:36:48</property>
+    <property name="modified">2020-03-02T14:14:48</property>
     <property name="originalScheme">GT copy</property>
   </metaInfo>
   <colors>
@@ -75,6 +75,9 @@
         <option name="BACKGROUND" value="3a2323" />
         <option name="ERROR_STRIPE_COLOR" value="664233" />
       </value>
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
+      <value />
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
@@ -409,6 +412,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="353f41" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="717171" />
+        <option name="BACKGROUND" value="343434" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
+        <option name="BACKGROUND" value="434343" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="717171" />
+        <option name="BACKGROUND" value="443344" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
