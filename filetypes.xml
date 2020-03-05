@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="drun" type="Bash" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="message" type="HTML" />
       <mapping ext="info" type="Ini" />
@@ -32,6 +31,7 @@
       <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="drun" type="Bash" />
     </extensionMap>
   </component>
 </application>
