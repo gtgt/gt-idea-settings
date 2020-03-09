@@ -9,11 +9,11 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
