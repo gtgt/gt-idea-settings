@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://digionline.hu">
+      <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://www.invitel.hu">
         <fileTransfer host="websync.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
