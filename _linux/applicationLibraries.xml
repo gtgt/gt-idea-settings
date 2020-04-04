@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="pure" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_yui.yahooapis.com_pure_0.6.0_pure.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_yui.yahooapis.com_pure_0.6.0_pure.css" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
