@@ -83,6 +83,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
@@ -107,6 +108,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
+  <action id="ShowFilterPopup" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
@@ -135,8 +137,5 @@
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
-  </action>
-  <action id="Tool_External Tools_cs-fix-file">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
 </keymap>
