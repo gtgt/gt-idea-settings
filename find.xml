@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -18,11 +19,11 @@
     <mask>*.module</mask>
     <mask>composer.json</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.yaml</mask>
     <mask>*.less</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
