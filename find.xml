@@ -18,11 +18,11 @@
     <mask>*.module</mask>
     <mask>composer.json</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.yaml</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
