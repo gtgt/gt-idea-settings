@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="kani.hu" id="538dd535-22d3-4a95-a901-f5457c2eb45c" keyPath="$USER_HOME$/.ssh/id_rsa" port="222" customName="kani.hu.ssh" nameFormat="CUSTOM" username="gt" />
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="6bf12dea-97e8-4c71-b34c-da1dc6b5784f" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="8693d75d-d1aa-44e6-82b0-d15bb8e62f5c" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
