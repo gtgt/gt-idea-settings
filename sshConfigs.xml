@@ -6,6 +6,10 @@
       <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="8693d75d-d1aa-44e6-82b0-d15bb8e62f5c" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="e40447c5-df33-4086-bf3f-be757f824377" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="ac40b0c9-6f94-4e83-802f-2f734df88f94" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="8fdc10b3-fe30-48e5-8c10-53a589ddc504" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="b0921dfa-1eea-4638-a891-505cf0b91aa4" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="d3213635-72f9-45a1-bb6e-27a32e7fa63c" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="d6e6ac3a-0b64-4ef3-86ea-b7a1748e95a5" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
