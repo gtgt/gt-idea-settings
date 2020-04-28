@@ -20,6 +20,7 @@
       <mapping pattern="console-docker" type="PLAIN_TEXT" />
       <mapping pattern="generate-keys" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="40-php" type="Shell Script" />
