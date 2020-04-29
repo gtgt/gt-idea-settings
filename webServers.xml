@@ -1,20 +1,18 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://www.invitel.hu">
+      <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="">
         <fileTransfer host="websync.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="490f2cd8-ac42-48e4-bb47-143d6daf28c2" name="digi.hu" url="http://digiadmin.digicable.hu">
-        <fileTransfer host="digiadmin.digicable.hu" port="21" rootFolder="/digi.hu">
+        <fileTransfer rootFolder="/digi.hu" host="digiadmin.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="b3034159-7d1f-4879-949a-67607f08a619" name="ticket" url="http://ticket.digicable.hu">
@@ -22,15 +20,13 @@
           <advancedOptions>
             <advancedOptions accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="d7ff6293-8d9d-4569-a852-744512e1b976" name="kani.hu" url="http://kani.hu/">
-        <fileTransfer host="kani.hu" port="2121" rootFolder="/var/www" accessType="FTPS">
+        <fileTransfer rootFolder="/var/www" accessType="FTPS" host="kani.hu" port="2121">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="2121" />
         </fileTransfer>
       </webServer>
       <webServer id="a94837b1-4830-4aa2-8bf5-44a9b5318efc" name="ugyfelkapu.digi.hu" url="http://ugyfelkapu.digi.hu">
@@ -38,7 +34,6 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="3412a631-7024-40b3-80a0-34b570f92f55" name="digi.hu.test" url="http://digi.hu">
@@ -46,7 +41,6 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="df84d4ba-9dd8-4bc2-8b58-3506a3a6897d" name="helium.digi.hu" url="http://helium.digi.hu">
@@ -54,7 +48,6 @@
           <advancedOptions>
             <advancedOptions accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="6bc1801d-42b7-48b3-96c6-de2a96d8319e" name="ukt.digi.hu" url="http://ukt.digi.hu">
@@ -62,7 +55,6 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="cb0e3f84-1657-4cde-a274-dfe450f7b20e" name="intranet.digicable.hu" url="http://intranet.digicable.hu">
@@ -70,39 +62,34 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="c7b06493-28e2-467b-ab0a-91a64c1648d0" name="kani.hu.ssh" url="http://kani.hu/">
-        <fileTransfer host="kani.hu" port="222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="kani.hu" port="222" sshConfigId="96415536-3bf2-4281-8de2-1a3d035b208e" sshConfig="kani.hu.ssh" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" />
           </advancedOptions>
-          <option name="port" value="222" />
         </fileTransfer>
       </webServer>
       <webServer id="050b5d34-24a5-43a7-b27b-a6ba411fcee9" name="stamfordglobal.com" url="http://stamfordglobal.com">
-        <fileTransfer host="stamfordglobal.com" port="22" rootFolder="/var/www" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="stamfordglobal.com" port="22" sshConfigId="d829ea82-677a-4dd9-9003-5c9763462597" sshConfig="stamfordglobal.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="145c0a8e-16af-4b68-95c1-551abf8d29da" name="npz.devel.stamfordglobal.com" url="http://npz.devel.stamfordglobal.com">
-        <fileTransfer host="npz.devel.stamfordglobal.com" port="21" rootFolder="/npz2013.devel.stamfordglobal.com/">
+        <fileTransfer rootFolder="/npz2013.devel.stamfordglobal.com/" host="npz.devel.stamfordglobal.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="1425497e-05c0-4d9f-a3e6-2583a230312d" name="balance.fxloop.eu" url="http://balance.fxloop.eu">
-        <fileTransfer host="fxloop.eu" port="21" rootFolder="/var/www/fxloop.eu/balance/htdocs">
+        <fileTransfer rootFolder="/var/www/fxloop.eu/balance/htdocs" host="fxloop.eu" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="873ce2d5-c17c-4a61-844f-cf3045e79277" name="old.fxloop.eu" url="http://fxloop.eu">
@@ -110,26 +97,23 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="1aec0888-217c-4985-ad9f-f1565e75fc94" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://new.fxloop.eu">
-        <fileTransfer host="new.fxloop.eu" port="222" rootFolder="/var/www/" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="new.fxloop.eu" port="222" sshConfigId="1b651881-7b59-45c0-8f2e-1cd677fbfca1" sshConfig="fxloop.eu.sftp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="222" />
         </fileTransfer>
       </webServer>
       <webServer id="92314e02-6195-4f8e-93eb-eae54ba8f54b" name="fxloop.eu.ftp" url="http://fxloop.eu">
-        <fileTransfer host="fxloop.eu" port="21" rootFolder="/var/www">
+        <fileTransfer rootFolder="/var/www" host="fxloop.eu" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="5edc2bf4-e7a4-4d71-922b-ffefa4f2b4ff" name="digife2014.digicable.hu" url="http://digife2014.digicable.hu">
@@ -137,15 +121,13 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" controlEncoding="ISO-8859-1" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="51673edc-a7dc-4fd6-937a-1e3d0e58cad8" name="aukcio.digi.hu" url="http://aukcio.digi.hu">
-        <fileTransfer host="aukcio.digi.hu" port="21" rootFolder="/aukcio.digi.hu/public_html/">
+        <fileTransfer rootFolder="/aukcio.digi.hu/public_html/" host="aukcio.digi.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="e788b60a-9755-48da-9b32-25aefdced53e" name="intranet2.digicable.hu" url="http://intranet2.digicable.hu">
@@ -153,23 +135,20 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="b4926685-7d31-45a5-b136-2aa34aae594e" name="statisztika.digicable.hu" url="http://statisztika.digicable.hu">
-        <fileTransfer host="statisztika.digicable.hu" port="21" rootFolder="/public_html">
+        <fileTransfer rootFolder="/public_html" host="statisztika.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="ae12fe84-9789-4d45-a62a-9591ea4cfb78" name="sales.digi.hu" url="http://digiadmin.digicable.hu">
-        <fileTransfer host="digiadmin.digicable.hu" port="21" rootFolder="/sales.digi.hu">
+        <fileTransfer rootFolder="/sales.digi.hu" host="digiadmin.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
