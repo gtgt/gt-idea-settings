@@ -16,6 +16,8 @@
       <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="7fab9813-9c9a-42a9-ba88-c7673267bf02" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="cc0e9a21-ecf0-4c90-a2aa-888ac3c4dc61" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="4112fedd-5788-43ed-8d75-3dfed3a8f562" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="d829ea82-677a-4dd9-9003-5c9763462597" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="1b651881-7b59-45c0-8f2e-1cd677fbfca1" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
