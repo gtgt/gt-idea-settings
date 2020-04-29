@@ -4,7 +4,7 @@
       <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="">
         <fileTransfer host="websync.digicable.hu" port="21">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+            <advancedOptions compatibilityMode="true" maxConnections="20" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
