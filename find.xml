@@ -23,7 +23,7 @@
     <mask>*.js</mask>
     <mask>*.ini</mask>
     <mask>*.css</mask>
-    <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>*.php</mask>
   </component>
 </application>
