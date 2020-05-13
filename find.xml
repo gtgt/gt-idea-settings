@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="T53 Invitel tudakozó oldal" />
-    <option name="defaultScopeName" value="T53 Invitel tudakozó oldal" />
-    <option name="SEARCH_SCOPE" value="T53 Invitel tudakozó oldal" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
