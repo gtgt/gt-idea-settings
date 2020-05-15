@@ -23,6 +23,7 @@
       <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="compat-retail-site" type="SCSS" />
       <mapping pattern="40-php" type="Shell Script" />
       <mapping pattern="50-www-env" type="Shell Script" />
       <mapping pattern="*.smarty.conf" type="SmartyConfig" />
