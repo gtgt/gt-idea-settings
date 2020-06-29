@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drupal_add_library('system', 'jquery.cookie');" />
       <item value="{{ collector.method }}" />
       <item value="alkalmasság" />
       <item value="harmadlagos" />
@@ -50,7 +51,6 @@
       <item value="aufrufe" />
       <item value="Settings Bundle" />
       <item value="query cache ns" />
-      <item value="Please add task template with the following security weakness to see proper description" />
     </histories>
     <option name="languageScores">
       <map>
