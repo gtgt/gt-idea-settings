@@ -10,18 +10,18 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping pattern="console-docker" type="PLAIN_TEXT" />
       <mapping pattern="generate-keys" type="PLAIN_TEXT" />
-      <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
-      <mapping ext="alertdb" type="PLAIN_TEXT" />
       <mapping ext="legacy" type="PLAIN_TEXT" />
+      <mapping ext="alertdb" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="compat-retail-site" type="SCSS" />
       <mapping pattern="40-php" type="Shell Script" />
