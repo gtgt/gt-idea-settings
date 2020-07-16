@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="940" />
       <item value="drupal_add_library('system', 'jquery.cookie');" />
       <item value="{{ collector.method }}" />
       <item value="alkalmasság" />
@@ -50,11 +51,10 @@
       <item value="Aufrufe Gesamt Vergleich letzte Monat" />
       <item value="aufrufe" />
       <item value="Settings Bundle" />
-      <item value="query cache ns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="12" />
       </map>
