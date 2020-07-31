@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -20,12 +23,12 @@
     <mask>*.js</mask>
     <mask>*.ini</mask>
     <mask>*.css</mask>
-    <mask>*.less</mask>
     <mask>*.twig</mask>
     <mask>*.xlf</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.info</mask>
     <mask>*.module,*.inc,*.php,*.engine</mask>
+    <mask>*.less</mask>
   </component>
 </application>
