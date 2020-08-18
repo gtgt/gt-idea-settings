@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lbl.padding-" />
       <item value="940" />
       <item value="drupal_add_library('system', 'jquery.cookie');" />
       <item value="{{ collector.method }}" />
@@ -50,11 +51,10 @@
       <item value="Impressionen Vergleich letzte Woche" />
       <item value="Aufrufe Gesamt Vergleich letzte Monat" />
       <item value="aufrufe" />
-      <item value="Settings Bundle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="13" />
       </map>
