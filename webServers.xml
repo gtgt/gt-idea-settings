@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="">
+      <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://isales01.digicable.hu/">
         <fileTransfer host="websync.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" maxConnections="20" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
@@ -65,14 +65,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="c7b06493-28e2-467b-ab0a-91a64c1648d0" name="kani.hu.ssh" url="http://kani.hu/">
-        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="kani.hu" port="222" sshConfigId="96415536-3bf2-4281-8de2-1a3d035b208e" sshConfig="kani.hu.ssh" keyPair="true">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="kani.hu" port="222" sshConfigId="538dd535-22d3-4a95-a901-f5457c2eb45c" sshConfig="kani.hu.ssh" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="050b5d34-24a5-43a7-b27b-a6ba411fcee9" name="stamfordglobal.com" url="http://stamfordglobal.com">
-        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="stamfordglobal.com" port="22" sshConfigId="d829ea82-677a-4dd9-9003-5c9763462597" sshConfig="stamfordglobal.com">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="stamfordglobal.com" port="22" sshConfigId="6bf12dea-97e8-4c71-b34c-da1dc6b5784f" sshConfig="stamfordglobal.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -103,7 +103,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://new.fxloop.eu">
-        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="new.fxloop.eu" port="222" sshConfigId="1b651881-7b59-45c0-8f2e-1cd677fbfca1" sshConfig="fxloop.eu.sftp">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="new.fxloop.eu" port="222" sshConfigId="8693d75d-d1aa-44e6-82b0-d15bb8e62f5c" sshConfig="fxloop.eu.sftp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
