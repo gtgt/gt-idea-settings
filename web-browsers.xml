@@ -1,6 +1,11 @@
 <application>
-  <component name="WebBrowsersConfiguration">
-    <browser id="9b26fcec-eade-47ac-92f2-11478b35dcca" name="Waterfox" family="FIREFOX" path="waterfox-current" />
+  <component name="WebBrowsersConfiguration" default="first">
+    <browser id="9b26fcec-eade-47ac-92f2-11478b35dcca" name="Waterfox" family="FIREFOX" path="waterfox-current">
+      <settings>
+        <profile>geret@invitel.co.hu</profile>
+        <profiles-ini-path>$USER_HOME$/.waterfox/profiles.ini</profiles-ini-path>
+      </settings>
+    </browser>
     <browser id="7cde7308-256e-47db-a54d-d948ed73cd4f" name="Waterfox Classic" family="FIREFOX" path="waterfox-classic" />
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
     <browser id="e0c8339d-533a-489f-bec7-409729760382" name="Chromium" family="CHROME" path="chromium-browser" />
