@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="potential" />
+      <item value="potentional" />
       <item value="lbl.padding-" />
       <item value="940" />
       <item value="drupal_add_library('system', 'jquery.cookie');" />
@@ -49,14 +51,12 @@
       <item value="Aufgebaute Backlinks" />
       <item value="Anzahl versendete Akquisen" />
       <item value="Impressionen Vergleich letzte Woche" />
-      <item value="Aufrufe Gesamt Vergleich letzte Monat" />
-      <item value="aufrufe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="13" />
+        <entry key="HUNGARIAN" value="14" />
       </map>
     </option>
   </component>
