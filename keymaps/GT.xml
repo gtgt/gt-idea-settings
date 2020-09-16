@@ -62,6 +62,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -70,6 +71,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="ProjectViewChangeView" />
   <action id="PublishGroup.Upload">
