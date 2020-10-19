@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -22,11 +23,11 @@
     <mask>*.twig</mask>
     <mask>*.xlf</mask>
     <mask>*.info</mask>
-    <mask>*.less</mask>
     <mask>*.html</mask>
     <mask>*.tpl</mask>
     <mask>*.js</mask>
     <mask>*.module,*.inc,*.php,*.engine</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
