@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="T127 VoWifi / VoLTE oldal szerkeszthetővé tétele" />
+    <option name="defaultScopeName" value="T127 VoWifi / VoLTE oldal szerkeszthetővé tétele" />
+    <option name="SEARCH_SCOPE" value="T127 VoWifi / VoLTE oldal szerkeszthetővé tétele" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
