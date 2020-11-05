@@ -18,6 +18,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping pattern="console-docker" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="generate-keys" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
