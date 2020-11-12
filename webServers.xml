@@ -144,7 +144,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="ae12fe84-9789-4d45-a62a-9591ea4cfb78" name="sales.digi.hu" url="http://digiadmin.digicable.hu">
+      <webServer id="ae12fe84-9789-4d45-a62a-9591ea4cfb78" name="salesweb.digi.hu" url="http://digiadmin.digicable.hu">
         <fileTransfer rootFolder="/sales.digi.hu" host="digiadmin.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
