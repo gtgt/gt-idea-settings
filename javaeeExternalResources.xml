@@ -12,6 +12,7 @@
     <resource url="http://schemas.xmlsoap.org/wsdl/mime/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9f0c1575_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9f6330fe_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/soap12/wsdl11soap12.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/6640c088_wsdl11soap12.xsd" />
+    <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="/tmp/JetBrains/IntelliJIdea2020.1/extResources/edc05920_22-rdf-syntax-ns#.xml" />
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/2889bd79_svg11.dtd" />
     <resource url="http://www.w3.org/MarkUp/DTD/xhtml-base-1.mod" location="/tmp/JetBrains/IntelliJIdea2020.1/extResources/23287a41_xhtml-base-1.mod" />
     <resource url="http://www.w3.org/MarkUp/DTD/xhtml-csismap-1.mod" location="/tmp/JetBrains/IntelliJIdea2020.1/extResources/25796042_xhtml-csismap-1.mod" />
