@@ -24,9 +24,9 @@
     <mask>*.html</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
-    <mask>*.module,*.inc,*.php,*.engine</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.module,*.inc,*.php,*.engine</mask>
   </component>
 </application>
