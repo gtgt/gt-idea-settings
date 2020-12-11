@@ -1,49 +1,45 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="message" type="HTML" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping ext="info" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="map" type="JSON" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
-      <mapping ext="engine" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
-      <mapping pattern="console-docker" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="console-docker" type="PLAIN_TEXT" />
+      <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping pattern="generate-keys" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
-      <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping pattern="compat-retail-site" type="SCSS" />
-      <mapping pattern="40-php" type="Shell Script" />
       <mapping pattern="50-www-env" type="Shell Script" />
+      <mapping pattern="40-php" type="Shell Script" />
       <mapping pattern="*.smarty.conf" type="SmartyConfig" />
-      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="html" type="Twig" />
       <mapping pattern="*.policy.bak" type="XML" />
-      <mapping ext="policy" type="XML" />
       <mapping ext="xlf" type="XML" />
+      <mapping ext="policy" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
-      <removed_mapping pattern="50-www-env" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="mo" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="mo" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern="50-www-env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
       <mapping pattern="drun" type="Bash" />
     </extensionMap>
   </component>
