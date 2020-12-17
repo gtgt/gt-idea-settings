@@ -1,7 +1,11 @@
 <application>
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;Droid Sans&quot;;&#10;    font-size: 90%;&#10;}" />
-    <MarkdownPreviewSettings VerticalSplit="false" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only" VerticalSplit="false" />
+    <enabledExtensions>
+      <entry key="MermaidLanguageExtension" value="false" />
+      <entry key="PlantUMLLanguageExtension" value="false" />
+    </enabledExtensions>
   </component>
   <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="false" autoLinks="false" wikiLinks="false" tables="false" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="false" />
 </application>
