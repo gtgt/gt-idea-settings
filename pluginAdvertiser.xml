@@ -606,6 +606,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jade">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
+              <option name="myPluginName" value="Pug (ex-Jade)" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jar">
           <value>
             <plugin>
@@ -1197,6 +1205,14 @@
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
               <option name="myPluginName" value="CSV Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pug">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
+              <option name="myPluginName" value="Pug (ex-Jade)" />
             </plugin>
           </value>
         </entry>

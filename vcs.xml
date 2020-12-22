@@ -26,6 +26,10 @@
           <option name="url" value="http://gitlab.local" />
           <option name="userName" value="geret@invitel.co.hu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/StartBootstrap/startbootstrap-resume.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/www" />
