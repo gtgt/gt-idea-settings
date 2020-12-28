@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="402" />
+    <option name="newTranslationDialogX" value="818" />
+    <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="Bevezetni" />
+      <item value="Bevezet" />
       <item value="distribute" />
       <item value="potential" />
       <item value="potentional" />
@@ -49,8 +54,6 @@
       <item value="durchschnittl Sternwewertung" />
       <item value="durchschnittl" />
       <item value="Suchanfragen" />
-      <item value="Aufgebaute Backlinks" />
-      <item value="Anzahl versendete Akquisen" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,6 +62,9 @@
         <entry key="HUNGARIAN" value="16" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609165303957" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
