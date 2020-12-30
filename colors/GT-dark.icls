@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T19:05:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2020-03-02T14:14:48</property>
+    <property name="modified">2020-12-30T17:06:44</property>
     <property name="originalScheme">GT copy</property>
   </metaInfo>
   <colors>
@@ -431,6 +431,9 @@
         <option name="FOREGROUND" value="717171" />
         <option name="BACKGROUND" value="443344" />
       </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value />
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
