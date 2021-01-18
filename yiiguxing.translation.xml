@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="402" />
+    <option name="newTranslationDialogWidth" value="398" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="adott" />
+      <item value="illető" />
+      <item value="respective" />
+      <item value="by managers themselves" />
+      <item value="by themselves" />
+      <item value="for themselves" />
+      <item value="themselves" />
+      <item value="themsel" />
+      <item value="themse" />
       <item value="Bevezetni" />
       <item value="Bevezet" />
       <item value="distribute" />
@@ -45,15 +54,6 @@
       <item value="Vergleich Aufrufe" />
       <item value="entwicklung aufrufe" />
       <item value="entwicklung" />
-      <item value="sinnvoll" />
-      <item value="sinvoll" />
-      <item value="sinvall" />
-      <item value="möglich" />
-      <item value="sodass" />
-      <item value="ereignisse" />
-      <item value="durchschnittl Sternwewertung" />
-      <item value="durchschnittl" />
-      <item value="Suchanfragen" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,9 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609165303957" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1610965914931" />
   </component>
 </application>
