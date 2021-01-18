@@ -26,7 +26,7 @@
     <mask>*.module,*.inc,*.php,*.engine</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
-    <mask>*.yml</mask>
     <mask>*.scss</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
