@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="398" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="396" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="kifejezett" />
       <item value="adott" />
+      <item value="különös" />
+      <item value="particular" />
       <item value="illető" />
       <item value="respective" />
       <item value="by managers themselves" />
@@ -51,9 +55,6 @@
       <item value="Vergleich Verteilung " />
       <item value="die Ansicht" />
       <item value="Verteilung Aufrufe" />
-      <item value="Vergleich Aufrufe" />
-      <item value="entwicklung aufrufe" />
-      <item value="entwicklung" />
     </histories>
     <option name="languageScores">
       <map>
