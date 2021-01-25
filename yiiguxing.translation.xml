@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="396" />
+    <option name="newTranslationDialogWidth" value="394" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="cancelled" />
+      <item value="canceled" />
       <item value="kifejezett" />
       <item value="adott" />
       <item value="különös" />
@@ -53,8 +55,6 @@
       <item value="Vergleich Verteilung  Über Suche Aufrufe Anrufe" />
       <item value="Vergleich Verteilung  Über Suche" />
       <item value="Vergleich Verteilung " />
-      <item value="die Ansicht" />
-      <item value="Verteilung Aufrufe" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610965914931" />
+    <option name="lastTrimTime" value="1611589091795" />
   </component>
 </application>
