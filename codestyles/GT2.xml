@@ -6,12 +6,12 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="220" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_LINE_BREAKS" value="false" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,li" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
