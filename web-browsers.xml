@@ -1,6 +1,6 @@
 <application>
   <component name="WebBrowsersConfiguration" default="first" showHover="false">
-    <browser id="9b26fcec-eade-47ac-92f2-11478b35dcca" name="Waterfox" family="FIREFOX" path="waterfox-current">
+    <browser id="9b26fcec-eade-47ac-92f2-11478b35dcca" name="Waterfox" family="FIREFOX" path="waterfox-g3">
       <settings>
         <profile>geret@invitel.co.hu</profile>
         <profiles-ini-path>$USER_HOME$/.waterfox/profiles.ini</profiles-ini-path>
