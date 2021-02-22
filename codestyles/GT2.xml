@@ -117,6 +117,7 @@
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
     <arrangement>
