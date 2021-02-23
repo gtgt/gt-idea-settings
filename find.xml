@@ -24,9 +24,9 @@
     <mask>*.module,*.inc,*.php,*.engine</mask>
     <mask>*.css</mask>
     <mask>*.yml</mask>
-    <mask>*.scss</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
