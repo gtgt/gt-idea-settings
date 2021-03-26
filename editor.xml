@@ -5,7 +5,9 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="GT">
@@ -39,7 +41,7 @@
       <item index="7" class="java.lang.String" itemvalue="ERROR" />
     </list>
   </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" useJBChromeExtension="true" />
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
