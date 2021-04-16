@@ -1,23 +1,57 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="kani.hu" id="538dd535-22d3-4a95-a901-f5457c2eb45c" keyPath="$USER_HOME$/.ssh/id_rsa" port="222" customName="kani.hu.ssh" nameFormat="CUSTOM" username="gt" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="6bf12dea-97e8-4c71-b34c-da1dc6b5784f" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="8693d75d-d1aa-44e6-82b0-d15bb8e62f5c" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="e40447c5-df33-4086-bf3f-be757f824377" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="ac40b0c9-6f94-4e83-802f-2f734df88f94" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="8fdc10b3-fe30-48e5-8c10-53a589ddc504" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="b0921dfa-1eea-4638-a891-505cf0b91aa4" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="d3213635-72f9-45a1-bb6e-27a32e7fa63c" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="d6e6ac3a-0b64-4ef3-86ea-b7a1748e95a5" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="6bb4e50a-2200-41c1-8ef5-2c30d8c85cac" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="17d81643-5433-4fe5-998d-af2e0987390b" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="c7ed1aa1-69d0-456e-8611-cd3fa0df5693" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="7fab9813-9c9a-42a9-ba88-c7673267bf02" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="cc0e9a21-ecf0-4c90-a2aa-888ac3c4dc61" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="4112fedd-5788-43ed-8d75-3dfed3a8f562" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="d829ea82-677a-4dd9-9003-5c9763462597" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="1b651881-7b59-45c0-8f2e-1cd677fbfca1" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM" />
+      <sshConfig host="kani.hu" id="538dd535-22d3-4a95-a901-f5457c2eb45c" keyPath="$USER_HOME$/.ssh/id_rsa" port="222" customName="kani.hu.ssh" nameFormat="CUSTOM" username="gt">
+        <option name="customName" value="kani.hu.ssh" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="stamfordglobal.com" id="6bf12dea-97e8-4c71-b34c-da1dc6b5784f" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="new.fxloop.eu" id="8693d75d-d1aa-44e6-82b0-d15bb8e62f5c" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="e40447c5-df33-4086-bf3f-be757f824377" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="ac40b0c9-6f94-4e83-802f-2f734df88f94" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="8fdc10b3-fe30-48e5-8c10-53a589ddc504" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="b0921dfa-1eea-4638-a891-505cf0b91aa4" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="d3213635-72f9-45a1-bb6e-27a32e7fa63c" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="d6e6ac3a-0b64-4ef3-86ea-b7a1748e95a5" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="6bb4e50a-2200-41c1-8ef5-2c30d8c85cac" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="17d81643-5433-4fe5-998d-af2e0987390b" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="c7ed1aa1-69d0-456e-8611-cd3fa0df5693" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="7fab9813-9c9a-42a9-ba88-c7673267bf02" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="cc0e9a21-ecf0-4c90-a2aa-888ac3c4dc61" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="4112fedd-5788-43ed-8d75-3dfed3a8f562" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="stamfordglobal.com" id="d829ea82-677a-4dd9-9003-5c9763462597" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
+        <option name="customName" value="stamfordglobal.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="1b651881-7b59-45c0-8f2e-1cd677fbfca1" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
+        <option name="customName" value="fxloop.eu.sftp" />
+      </sshConfig>
     </configs>
   </component>
 </application>
