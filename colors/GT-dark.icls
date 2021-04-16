@@ -1,10 +1,15 @@
 <scheme name="GT-dark" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="created">2019-01-22T19:05:02</property>
+    <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2020-12-30T17:06:44</property>
+    <property name="modified">2021-04-17T01:21:08</property>
     <property name="originalScheme">GT copy</property>
+    <property name="vendorMail">gt@gtdev.eu</property>
+    <property name="vendorName">GT-dark</property>
+    <property name="vendorUrl">http://gtdev.eu</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="384c38" />
@@ -14,6 +19,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="656e76" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="414141" />
+    <option name="DOCUMENTATION_COLOR" value="2f3032" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="33403b" />
     <option name="GUTTER_BACKGROUND" value="414141" />
     <option name="HTML_TAG_TREE_LEVEL0" value="360000" />
@@ -26,6 +32,7 @@
     <option name="INFORMATION_HINT" value="393939" />
     <option name="MODIFIED_LINES_COLOR" value="8693b3" />
     <option name="NOTIFICATION_BACKGROUND" value="404040" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="232525" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="eeeeee" />
     <option name="SELECTED_INDENT_GUIDE" value="585858" />
