@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="this-&gt;root-&gt;vars-&gt;subscription type[" />
       <item value="cancelled" />
       <item value="canceled" />
       <item value="kifejezett" />
@@ -54,7 +55,6 @@
       <item value="Daten sollen gespeichert" />
       <item value="Vergleich Verteilung  Über Suche Aufrufe Anrufe" />
       <item value="Vergleich Verteilung  Über Suche" />
-      <item value="Vergleich Verteilung " />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616002840341" />
+    <option name="lastTrimTime" value="1618847328934" />
   </component>
 </application>
