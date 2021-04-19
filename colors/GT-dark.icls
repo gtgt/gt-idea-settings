@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-04-17T01:21:08</property>
+    <property name="modified">2021-04-19T17:02:45</property>
     <property name="originalScheme">GT copy</property>
     <property name="vendorMail">gt@gtdev.eu</property>
     <property name="vendorName">GT-dark</property>
@@ -222,9 +222,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value />
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
