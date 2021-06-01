@@ -44,9 +44,6 @@
   <TypeScriptCodeStyleSettings version="0">
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </TypeScriptCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <yaml>
     <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
   </yaml>
@@ -153,9 +150,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
