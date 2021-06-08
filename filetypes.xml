@@ -6,6 +6,7 @@
       <mapping ext="info" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="map" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
