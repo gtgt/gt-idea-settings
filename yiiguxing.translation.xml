@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="235" />
-    <option name="newTranslationDialogWidth" value="392" />
+    <option name="newTranslationDialogWidth" value="402" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="Karrier" />
       <item value="energetikai" />
       <item value="energetika" />
       <item value="energikus" />
@@ -55,7 +56,6 @@
       <item value="veränderung" />
       <item value="aufrufe über suche" />
       <item value="Unabhängig vom oben ausgewähltem Zeitraum -&gt; Daten sollen gespeichert" />
-      <item value="Unabhängig vom oben ausgewähltem Daten sollen gespeichert" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622715629865" />
+    <option name="lastTrimTime" value="1623425966413" />
   </component>
 </application>
