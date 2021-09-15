@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-04-26T13:26:25</property>
+    <property name="modified">2021-09-15T18:48:04</property>
     <property name="originalScheme">GT copy</property>
     <property name="vendorMail">gt@gtdev.eu</property>
     <property name="vendorName">GT-dark</property>
@@ -30,6 +30,7 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="120012" />
     <option name="INDENT_GUIDE" value="585858" />
     <option name="INFORMATION_HINT" value="393939" />
+    <option name="LOOKUP_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="8693b3" />
     <option name="NOTIFICATION_BACKGROUND" value="404040" />
     <option name="RECENT_LOCATIONS_SELECTION" value="232525" />
