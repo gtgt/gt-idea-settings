@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-09-29T14:10:36</property>
+    <property name="modified">2021-10-01T12:35:18</property>
     <property name="originalScheme">GT copy</property>
     <property name="vendorMail">gt@gtdev.eu</property>
     <property name="vendorName">GT-dark</property>
@@ -387,6 +387,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HTML_TAG_NAME">
       <value />
     </option>
@@ -441,6 +442,19 @@
       <value>
         <option name="FOREGROUND" value="717171" />
         <option name="BACKGROUND" value="443344" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fff6c7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Instance field">
+      <value>
+        <option name="FOREGROUND" value="feffb8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JADE_JS_BLOCK">
@@ -572,6 +586,13 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="eeeeee" />
+        <option name="BACKGROUND" value="232525" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
@@ -613,6 +634,13 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff7878" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="e04c30" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="Unused entry">
