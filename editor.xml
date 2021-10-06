@@ -33,6 +33,9 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="InspectionProfileManager">
     <list size="8">
       <item index="0" class="java.lang.String" itemvalue="UNUSED ENTRY" />
