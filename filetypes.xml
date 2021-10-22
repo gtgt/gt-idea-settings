@@ -10,6 +10,9 @@
       <mapping pattern="cron-run-1" type="AUTO_DETECTED" />
       <mapping pattern="docker-console" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="message" type="HTML" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="map" type="JSON" />
@@ -39,6 +42,7 @@
       <mapping pattern="40-php" type="Shell Script" />
       <mapping pattern="50-www-env" type="Shell Script" />
       <mapping pattern="*.smarty.conf" type="SmartyConfig" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="*.policy.bak" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="policy" type="XML" />
