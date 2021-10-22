@@ -52,6 +52,9 @@
       <sshConfig authType="PASSWORD" host="new.fxloop.eu" id="1b651881-7b59-45c0-8f2e-1cd677fbfca1" port="222" customName="fxloop.eu.sftp" nameFormat="CUSTOM">
         <option name="customName" value="fxloop.eu.sftp" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="kani.hu" id="dedaa4e3-d440-4636-9de5-1619384c0767" port="222" customName="kani.hu.ssh" nameFormat="CUSTOM" username="gt">
+        <option name="customName" value="kani.hu.ssh" />
+      </sshConfig>
     </configs>
   </component>
 </application>

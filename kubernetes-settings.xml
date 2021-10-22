@@ -1,5 +1,0 @@
-<application>
-  <component name="KubernetesApiSettings">
-    <option name="shellCommand" value="/bin/sh" />
-  </component>
-</application>
