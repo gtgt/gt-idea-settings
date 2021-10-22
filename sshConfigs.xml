@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="kani.hu" id="538dd535-22d3-4a95-a901-f5457c2eb45c" keyPath="$USER_HOME$/.ssh/id_rsa" port="222" customName="kani.hu.ssh" nameFormat="CUSTOM" username="gt">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="kani.hu" id="538dd535-22d3-4a95-a901-f5457c2eb45c" keyPath="$USER_HOME$/.ssh/id_rsa" port="222" customName="kani.hu.ssh" nameFormat="CUSTOM" username="gt">
         <option name="customName" value="kani.hu.ssh" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="stamfordglobal.com" id="6bf12dea-97e8-4c71-b34c-da1dc6b5784f" port="22" customName="stamfordglobal.com" nameFormat="CUSTOM">
