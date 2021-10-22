@@ -2,26 +2,18 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
     <mask>*.tpl.php</mask>
     <mask>*.inc</mask>
     <mask>*.module</mask>
-    <mask>*.xml</mask>
     <mask>*.ini</mask>
     <mask>*.xlf</mask>
     <mask>*.info</mask>
     <mask>*.module,*.inc,*.php,*.engine</mask>
     <mask>*.yml</mask>
-    <mask>*.html</mask>
-    <mask>*.css</mask>
     <mask>*.tpl</mask>
     <mask>*.less</mask>
     <mask>*.twig</mask>
@@ -31,5 +23,11 @@
     <mask>*.yaml,*.yml</mask>
     <mask>composer.json</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
