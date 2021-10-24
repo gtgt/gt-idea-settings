@@ -9,6 +9,7 @@
       <mapping pattern="build-angular-client" type="AUTO_DETECTED" />
       <mapping pattern="cron-run-1" type="AUTO_DETECTED" />
       <mapping pattern="docker-console" type="AUTO_DETECTED" />
+      <mapping pattern="dotenv" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="AUTO_DETECTED" />
       <mapping ext="message" type="HTML" />
       <mapping pattern=".arcconfig" type="JSON" />
