@@ -2,10 +2,24 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="235" />
-    <option name="newTranslationDialogWidth" value="402" />
+    <option name="newTranslationDialogWidth" value="400" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="建议统一在" />
+      <item value="目录下自定义小部件" />
+      <item value="目录下注册即可" />
+      <item value="中获取并放置" />
+      <item value="注" />
+      <item value="本身提供 nz-zorro-antd 数据录入组件的全部实现，以及若干第三方组件的代码，可从" />
+      <item value="建议统一在 `widgets` 目录下自定义小部件 &gt; 注：@delonform 本身提供 nz-zorro-antd 数据录入组件的全部实现，以及若干第三方组件的代码，可从[widgets-third](https:github.comng-alaindelontreemasterpackagesformwidgets-third)中获取并放置 `widgets` 目录下注册即可。" />
+      <item value="清空路由复用信息" />
+      <item value="设置用户Token信息" />
+      <item value="重新获取" />
+      <item value="内容，我们始终认为应用信息一般都会受当前用户授权范围而影响" />
+      <item value="表示不触发用户" />
+      <item value="然一般来说登录请求不需要校验，因此可以在请求URL加上：" />
+      <item value="默认配置中对所有HTTP请求都会强制 [校验]" />
       <item value="Karrier" />
       <item value="energetikai" />
       <item value="energetika" />
@@ -42,23 +56,10 @@
       <item value="prior" />
       <item value="Eager" />
       <item value="Review" />
-      <item value="Bewertung" />
-      <item value="evict" />
-      <item value="partial" />
-      <item value="foglalkozni" />
-      <item value="broter" />
-      <item value="brother" />
-      <item value="Metric" />
-      <item value="All locations" />
-      <item value="All location" />
-      <item value="Location" />
-      <item value="authenticate" />
-      <item value="veränderung" />
-      <item value="aufrufe über suche" />
-      <item value="Unabhängig vom oben ausgewähltem Zeitraum -&gt; Daten sollen gespeichert" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="21" />
         <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="18" />
@@ -66,6 +67,11 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623425966413" />
+    <option name="lastTrimTime" value="1635115230747" />
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="takeWordWhenDialogOpens" value="true" />
   </component>
 </application>
