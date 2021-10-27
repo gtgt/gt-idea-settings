@@ -8,7 +8,7 @@
     <phpInfoCache>
       <interpreter name="local-default">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="8.0.11">
-          <additional_php_ini>/etc/php/conf.d/apcu.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/intl.ini, /etc/php/conf.d/memcached.ini, /etc/php/conf.d/pdo.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/sodium.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
+          <additional_php_ini>/etc/php/conf.d/apcu.ini, /etc/php/conf.d/bcmath.ini, /etc/php/conf.d/exif.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/gmp.ini, /etc/php/conf.d/iconv.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/intl.ini, /etc/php/conf.d/memcached.ini, /etc/php/conf.d/pdo.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/sodium.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
@@ -26,14 +26,18 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="apcu" />
+            <extension name="bcmath" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
+            <extension name="gmp" />
             <extension name="hash" />
+            <extension name="iconv" />
             <extension name="igbinary" />
             <extension name="intl" />
             <extension name="json" />
