@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="ROLE CUSTOM ANONYMOUS" />
       <item value="建议统一在" />
       <item value="目录下自定义小部件" />
       <item value="目录下注册即可" />
@@ -55,14 +56,13 @@
       <item value="mobile complaints" />
       <item value="prior" />
       <item value="Eager" />
-      <item value="Review" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="18" />
+        <entry key="HUNGARIAN" value="19" />
       </map>
     </option>
   </component>
