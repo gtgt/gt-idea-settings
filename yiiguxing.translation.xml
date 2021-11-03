@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="547" />
-    <option name="newTranslationDialogWidth" value="959" />
+    <option name="newTranslationDialogWidth" value="957" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="注册信息：附加注册号A" />
+      <item value="注册信息：主注册号" />
       <item value="发生变动时都需要调用此方法重新刷新" />
       <item value="那时候我只会想自己想要什么，从不想自己拥有什么" />
       <item value="你猜-你猜你猜猜猜" />
@@ -54,12 +56,10 @@
       <item value="lbl.padding-" />
       <item value="940" />
       <item value="drupal_add_library('system', 'jquery.cookie');" />
-      <item value="{{ collector.method }}" />
-      <item value="alkalmasság" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="23" />
         <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="22" />
