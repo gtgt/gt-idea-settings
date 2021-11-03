@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="使用自定义小部件动态创建" />
+      <item value="计算规则" />
+      <item value="行号" />
       <item value="注册信息：附加注册号A" />
       <item value="注册信息：主注册号" />
       <item value="发生变动时都需要调用此方法重新刷新" />
@@ -53,13 +56,10 @@
       <item value="distribute" />
       <item value="potential" />
       <item value="potentional" />
-      <item value="lbl.padding-" />
-      <item value="940" />
-      <item value="drupal_add_library('system', 'jquery.cookie');" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="23" />
         <entry key="GERMAN" value="14" />
         <entry key="HUNGARIAN" value="22" />
