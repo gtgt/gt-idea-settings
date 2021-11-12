@@ -16,6 +16,9 @@
       <mapping ext="message" type="HTML" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="map" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
@@ -30,11 +33,11 @@
       <mapping pattern="console-docker" type="PLAIN_TEXT" />
       <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
       <mapping pattern="generate-keys" type="PLAIN_TEXT" />
+      <mapping ext="alertdb" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="alertdb" type="PLAIN_TEXT" />
       <mapping ext="legacy" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="compat-retail-site" type="SCSS" />
       <mapping pattern="40-php" type="Shell Script" />
       <mapping pattern="50-www-env" type="Shell Script" />
@@ -63,9 +66,6 @@
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern="50-www-env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern="drun" type="Bash" />
     </extensionMap>
   </component>
