@@ -1,0 +1,6 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="mergeRequestTargetBranch" value="develop" />
+    <option name="urlOpenerCommand" value="" />
+  </component>
+</application>
