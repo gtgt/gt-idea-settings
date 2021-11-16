@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="547" />
-    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogHeight" value="567" />
+    <option name="newTranslationDialogWidth" value="953" />
     <option name="newTranslationDialogX" value="818" />
-    <option name="newTranslationDialogY" value="454" />
+    <option name="newTranslationDialogY" value="175" />
     <histories>
+      <item value="Either" />
+      <item value="aware" />
       <item value="Constraint" />
       <item value="用户" />
       <item value="使用自定义小部件动态创建" />
@@ -54,15 +56,13 @@
       <item value="themsel" />
       <item value="themse" />
       <item value="Bevezetni" />
-      <item value="Bevezet" />
-      <item value="distribute" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="23" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="23" />
+        <entry key="HUNGARIAN" value="25" />
       </map>
     </option>
   </component>
