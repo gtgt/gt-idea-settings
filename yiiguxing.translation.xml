@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="567" />
-    <option name="newTranslationDialogWidth" value="953" />
+    <option name="newTranslationDialogWidth" value="384" />
     <option name="newTranslationDialogX" value="818" />
-    <option name="newTranslationDialogY" value="175" />
+    <option name="newTranslationDialogY" value="102" />
     <histories>
+      <item value="instance" />
+      <item value="deploy" />
+      <item value="depo" />
       <item value="Either" />
       <item value="aware" />
       <item value="Constraint" />
@@ -53,21 +56,18 @@
       <item value="by themselves" />
       <item value="for themselves" />
       <item value="themselves" />
-      <item value="themsel" />
-      <item value="themse" />
-      <item value="Bevezetni" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="25" />
+        <entry key="HUNGARIAN" value="27" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636637215510" />
+    <option name="lastTrimTime" value="1637664077962" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
