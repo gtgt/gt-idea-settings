@@ -147,4 +147,7 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
+  <action id="Tool_External Tools_cs-fix-file">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
 </keymap>
