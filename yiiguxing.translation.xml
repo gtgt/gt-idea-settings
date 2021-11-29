@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="549" />
-    <option name="newTranslationDialogWidth" value="382" />
+    <option name="newTranslationDialogHeight" value="545" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="90" />
     <histories>
+      <item value="availibility" />
+      <item value="a" />
+      <item value="lehetséges" />
+      <item value="összefüggő" />
+      <item value="engible" />
+      <item value="értelmezhető" />
       <item value="Setting" />
       <item value="related" />
       <item value="package" />
@@ -50,19 +56,13 @@
       <item value="Karrier" />
       <item value="energetikai" />
       <item value="energetika" />
-      <item value="energikus" />
-      <item value="energetic" />
-      <item value="this-&gt;root-&gt;vars-&gt;subscription type[" />
-      <item value="cancelled" />
-      <item value="canceled" />
-      <item value="kifejezett" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="34" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="36" />
+        <entry key="HUNGARIAN" value="42" />
       </map>
     </option>
   </component>
