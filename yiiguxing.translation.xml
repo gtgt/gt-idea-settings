@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="545" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogHeight" value="532" />
+    <option name="newTranslationDialogWidth" value="422" />
     <option name="newTranslationDialogX" value="818" />
     <option name="newTranslationDialogY" value="90" />
     <histories>
+      <item value="assertion" />
+      <item value="Assertion" />
+      <item value="Assert" />
+      <item value="constraint" />
+      <item value="validato" />
+      <item value="validator" />
+      <item value="valid" />
       <item value="availibility" />
       <item value="a" />
       <item value="lehetséges" />
@@ -49,20 +56,13 @@
       <item value="清空路由复用信息" />
       <item value="设置用户Token信息" />
       <item value="重新获取" />
-      <item value="内容，我们始终认为应用信息一般都会受当前用户授权范围而影响" />
-      <item value="表示不触发用户" />
-      <item value="然一般来说登录请求不需要校验，因此可以在请求URL加上：" />
-      <item value="默认配置中对所有HTTP请求都会强制 [校验]" />
-      <item value="Karrier" />
-      <item value="energetikai" />
-      <item value="energetika" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="38" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="42" />
+        <entry key="HUNGARIAN" value="46" />
       </map>
     </option>
   </component>
