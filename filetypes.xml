@@ -40,7 +40,6 @@
       <mapping pattern="compat-retail-site" type="SCSS" />
       <mapping pattern="40-php" type="Shell Script" />
       <mapping pattern="50-www-env" type="Shell Script" />
-      <mapping pattern="*.smarty.conf" type="SmartyConfig" />
       <mapping pattern="*.policy.bak" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="policy" type="XML" />
@@ -65,9 +64,18 @@
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern="50-www-env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
+      <mapping ext="_php" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="*.php.bak" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping pattern="*.smarty.conf" type="SmartyConfig" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="drun" type="Bash" />
     </extensionMap>
   </component>
