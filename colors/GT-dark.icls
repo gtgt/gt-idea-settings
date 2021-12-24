@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-10-01T12:35:18</property>
+    <property name="modified">2021-12-24T12:57:35</property>
     <property name="originalScheme">GT copy</property>
     <property name="vendorMail">gt@gtdev.eu</property>
     <property name="vendorName">GT-dark</property>
@@ -618,6 +618,12 @@
         <option name="FOREGROUND" value="10a1f0" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="EFFECT_COLOR" value="717171" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TWIG_KEYWORD">
