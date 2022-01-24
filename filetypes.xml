@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="docker-compose" type="AUTO_DETECTED" />
       <mapping pattern="password_updater" type="AUTO_DETECTED" />
+      <mapping pattern="docker-restart" type="AUTO_DETECTED" />
+      <mapping pattern="build-angular-api-client-new" type="AUTO_DETECTED" />
+      <mapping pattern="docker-compose" type="AUTO_DETECTED" />
       <mapping pattern=".dockerenv.dev" type="AUTO_DETECTED" />
       <mapping pattern="check" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="AUTO_DETECTED" />
       <mapping pattern="build-angular-client" type="AUTO_DETECTED" />
       <mapping pattern="cron-run-1" type="AUTO_DETECTED" />
-      <mapping pattern="docker-restart" type="AUTO_DETECTED" />
       <mapping pattern="docker-console" type="AUTO_DETECTED" />
-      <mapping pattern="build-angular-api-client-new" type="AUTO_DETECTED" />
+      <mapping pattern="local-redis-flush" type="AUTO_DETECTED" />
       <mapping pattern="dotenv" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="AUTO_DETECTED" />
       <mapping ext="message" type="HTML" />
@@ -26,11 +27,11 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
+      <mapping pattern="generate-keys" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".mailmap" type="PLAIN_TEXT" />
       <mapping pattern="console-docker" type="PLAIN_TEXT" />
-      <mapping pattern="recipient_point_type_settings.php" type="PLAIN_TEXT" />
-      <mapping pattern="generate-keys" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
@@ -38,8 +39,6 @@
       <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="compat-retail-site" type="SCSS" />
-      <mapping pattern="40-php" type="Shell Script" />
-      <mapping pattern="50-www-env" type="Shell Script" />
       <mapping pattern="*.smarty.conf" type="SmartyConfig" />
       <mapping pattern="*.policy.bak" type="XML" />
       <mapping ext="xlf" type="XML" />
@@ -63,7 +62,9 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern="40-php" approved="true" type="Shell Script" />
       <removed_mapping pattern="50-www-env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="50-www-env" approved="true" type="Shell Script" />
       <removed_mapping pattern="nginx/*.conf" approved="true" type="nginx" />
       <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
       <mapping ext="gradle.kts" type="Kotlin" />
