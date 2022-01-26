@@ -10,7 +10,9 @@
       <mapping pattern="cron-run-1" type="AUTO_DETECTED" />
       <mapping pattern="docker-restart" type="AUTO_DETECTED" />
       <mapping pattern="docker-console" type="AUTO_DETECTED" />
+      <mapping pattern="heap" type="AUTO_DETECTED" />
       <mapping pattern="local-redis-flush" type="AUTO_DETECTED" />
+      <mapping pattern="heap-size" type="AUTO_DETECTED" />
       <mapping pattern="build-angular-api-client-new" type="AUTO_DETECTED" />
       <mapping pattern="dotenv" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="AUTO_DETECTED" />
