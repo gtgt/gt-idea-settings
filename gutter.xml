@@ -1,0 +1,51 @@
+<application>
+  <component name="LineMarkerSettings">
+    <option name="providers">
+      <map>
+        <entry key="RenderedDoc" value="true" />
+        <entry key="SwOpenInHttpClientLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.httpClient.http.request.codeInsight.HttpRequestDiffLineMarkerProvider" value="true" />
+        <entry key="com.intellij.kubernetes.helm.HelmRepositoryAnnotator" value="true" />
+        <entry key="com.intellij.kubernetes.helm.ValueOverrideAnnotator" value="true" />
+        <entry key="com.intellij.kubernetes.references.LabelContainerAnnotator" value="true" />
+        <entry key="com.intellij.kubernetes.view.execution.KubernetesActionsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.intellij.lang.javascript.highlighting.TypeScriptSourceMappingLineMarkerProvider" value="true" />
+        <entry key="com.intellij.sql.editor.SqlRecursiveCallLineMakerProvider" value="true" />
+        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
+        <entry key="com.jetbrains.php.codeInsight.PhpMetaDeclarationLineMarkerProvider" value="true" />
+        <entry key="com.jetbrains.php.codeInsight.PhpRecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.jetbrains.php.lang.PhpLineMarkerProvider" value="true" />
+        <entry key="com.jetbrains.php.restClient.guzzle.GuzzleRunRequestLineMarkerProvider" value="true" />
+        <entry key="devkit.beforeAfter" value="true" />
+        <entry key="devkit.description" value="true" />
+        <entry key="java.implemented" value="true" />
+        <entry key="java.implementing" value="true" />
+        <entry key="java.lambda" value="true" />
+        <entry key="java.overridden" value="true" />
+        <entry key="java.overriding" value="true" />
+        <entry key="java.service" value="true" />
+        <entry key="java.sibling.inherited" value="true" />
+        <entry key="js.implemented" value="true" />
+        <entry key="js.implementing" value="true" />
+        <entry key="js.overridden" value="true" />
+        <entry key="js.overriding" value="true" />
+        <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureMarkdownImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureTextHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.extensions.jcef.mermaid.MermaidCodeFenceDownloadLineMarkerProvider" value="true" />
+        <entry key="org.jetbrains.idea.devkit.navigation.ExtensionDeclarationRelatedItemLineMarkerProvider" value="true" />
+        <entry key="org.jetbrains.idea.devkit.references.DevKitRelatedPropertiesProvider" value="true" />
+        <entry key="org.jetbrains.idea.devkit.testAssistant.TestDataLineMarkerProvider" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
