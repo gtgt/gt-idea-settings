@@ -36,7 +36,6 @@
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="alertdb" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="compat-retail-site" type="SCSS" />
@@ -47,8 +46,9 @@
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
       <mapping pattern="*.nginx.conf" type="nginx" />
-      <mapping ext="tmpl" type="nginx" />
+      <hashBang value="nginx" type="nginx" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="diff" approved="true" type="PATCH" />
@@ -62,6 +62,7 @@
       <removed_mapping ext="policy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tmpl" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="tmpl" approved="true" type="nginx" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
