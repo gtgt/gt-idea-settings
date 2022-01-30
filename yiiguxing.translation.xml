@@ -1,11 +1,27 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="532" />
-    <option name="newTranslationDialogWidth" value="420" />
-    <option name="newTranslationDialogX" value="818" />
-    <option name="newTranslationDialogY" value="90" />
+    <option name="newTranslationDialogHeight" value="395" />
+    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogX" value="796" />
+    <option name="newTranslationDialogY" value="278" />
     <histories>
+      <item value="term" />
+      <item value="Vocabulary" />
+      <item value="tipusú" />
+      <item value="típusú" />
+      <item value="Layout" />
+      <item value="s" />
+      <item value="Scope" />
+      <item value="Vázlat" />
+      <item value="Widget" />
+      <item value="Szövegtörzs" />
+      <item value="Hírdetés" />
+      <item value="H" />
+      <item value="Krízis" />
+      <item value="Krzis" />
+      <item value="Kryzis" />
+      <item value="Krizis" />
       <item value="Breaking news" />
       <item value="Breaking " />
       <item value="Feed Aggregator Target" />
@@ -40,29 +56,13 @@
       <item value="depo" />
       <item value="Either" />
       <item value="aware" />
-      <item value="Constraint" />
-      <item value="用户" />
-      <item value="使用自定义小部件动态创建" />
-      <item value="计算规则" />
-      <item value="行号" />
-      <item value="注册信息：附加注册号A" />
-      <item value="注册信息：主注册号" />
-      <item value="发生变动时都需要调用此方法重新刷新" />
-      <item value="那时候我只会想自己想要什么，从不想自己拥有什么" />
-      <item value="你猜-你猜你猜猜猜" />
-      <item value="{ &quot;menu.search.placeholder&quot;: &quot;Search for people, file, photos...&quot;, &quot;menu.fullscreen&quot;: &quot;Fullscreen&quot;, &quot;menu.fullscreen.exit&quot;: &quot;Exit Fullscreen&quot;, &quot;menu.clear.local.storage&quot;: &quot;Clear Local Storage&quot;, &quot;menu.lang&quot;: &quot;Language&quot;, &quot;menu.main&quot;: &quot;Main Navigation&quot;, &quot;menu.dashboard&quot;: &quot;Dashboard&quot;, &quot;menu.dashboard.v1&quot;: &quot;Default&quot;, &quot;menu.dashboard.analysis&quot;: &quot;Analysis&quot;, &quot;menu.dashboard.monitor&quot;: &quot;Monitor&quot;, &quot;menu.dashboard.workplace&quot;: &quot;Workplace&quot;, &quot;menu.shortcut&quot;: &quot;Shortcut&quot;, &quot;menu.widgets&quot;: &quot;Widgets&quot;, &quot;menu.alain&quot;: &quot;Alain&quot;, &quot;menu.style&quot;: &quot;Style&quot;, &quot;menu.style.typography&quot;: &quot;Typography&quot;, &quot;menu.style.gridmasonry&quot;: &quot;Grid Masonry&quot;, &quot;menu.style.colors&quot;: &quot;Colors&quot;, &quot;menu.delon&quot;: &quot;Delon Lib&quot;, &quot;menu.delon.form&quot;: &quot;Dynamic Form&quot;, &quot;menu.delon.table&quot;: &quot;Simple table&quot;, &quot;menu.delon.util&quot;: &quot;Util&quot;, &quot;menu.delon.print&quot;: &quot;Print&quot;, &quot;menu.delon.guard&quot;: &quot;Route Guard&quot;, &quot;menu.delon.cache&quot;: &quot;Cache&quot;, &quot;menu.delon.qr&quot;: &quot;QR&quot;, &quot;menu.delon.acl&quot;: &quot;ACL&quot;, &quot;menu.delon.downfile&quot;: &quot;Download File&quot;, &quot;menu.delon.xlsx&quot;: &quot;Excel&quot;, &quot;menu.delon.zip&quot;: &quot;Zip&quot;, &quot;menu.pro&quot;: &quot;Antd Pro&quot;, &quot;menu.form&quot;: &quot;Form&quot;, &quot;menu.form.basicform&quot;: &quot;Basic Form&quot;, &quot;menu.form.stepform&quot;: &quot;Step Form&quot;, &quot;menu.form.stepform.info&quot;: &quot;Step Form(write transfer information)&quot;, &quot;menu.form.stepform.confirm&quot;: &quot;Step Form(confirm transfer information)&quot;, &quot;menu.form.stepform.result&quot;: &quot;Step Form(finished)&quot;, &quot;menu.form.advancedform&quot;: &quot;Advanced Form&quot;, &quot;menu.list&quot;: &quot;List&quot;, &quot;menu.list.searchtable&quot;: &quot;Search Table&quot;, &quot;menu.list.basiclist&quot;: &quot;Basic List&quot;, &quot;menu.list.cardlist&quot;: &quot;Card List&quot;, &quot;menu.list.searchlist&quot;: &quot;Search List&quot;, &quot;menu.list.searchlist.articles&quot;: &quot;Search List(articles)&quot;, &quot;menu.list.searchlist.projects&quot;: &quot;Search List(projects)&quot;, &quot;menu.list.searchlist.applications&quot;: &quot;Search List(applications)&quot;, &quot;menu.profile&quot;: &quot;Profile&quot;, &quot;menu.profile.basic&quot;: &quot;Basic Profile&quot;, &quot;menu.profile.advanced&quot;: &quot;Advanced Profile&quot;, &quot;menu.result&quot;: &quot;Result&quot;, &quot;menu.result.success&quot;: &quot;Success&quot;, &quot;menu.result.fail&quot;: &quot;Fail&quot;, &quot;menu.exception&quot;: &quot;Exception&quot;, &quot;menu.exception.not-permission&quot;: &quot;403&quot;, &quot;menu.exception.not-find&quot;: &quot;404&quot;, &quot;menu.exception.server-error&quot;: &quot;500&quot;, &quot;menu.account&quot;: &quot;Account&quot;, &quot;menu.account.center&quot;: &quot;Account Center&quot;, &quot;menu.account.settings&quot;: &quot;Account Settings&quot;, &quot;menu.account.trigger&quot;: &quot;Trigger Error&quot;, &quot;menu.account.logout&quot;: &quot;Logout&quot;, &quot;menu.more&quot;: &quot;More&quot;, &quot;menu.report&quot;: &quot;Report&quot;, &quot;menu.report.relation&quot;: &quot;Relation Map&quot;, &quot;menu.extras&quot;: &quot;Extra&quot;, &quot;menu.extras.helpcenter&quot;: &quot;Help Center&quot;, &quot;menu.extras.settings&quot;: &quot;Settings&quot;, &quot;menu.extras.poi&quot;: &quot;Poi&quot;, &quot;app.analysis.test&quot;: &quot;Gongzhuan No.{{no}} shop&quot;, &quot;app.analysis.introduce&quot;: &quot;Introduce&quot;, &quot;app.analysis.total-sales&quot;: &quot;Total Sales&quot;, &quot;app.analysis.day-sales&quot;: &quot;Day Sales&quot;, &quot;app.analysis.visits&quot;: &quot;Visits&quot;, &quot;app.analysis.visits-trend&quot;: &quot;Visits Trend&quot;, &quot;app.analysis.visits-ranking&quot;: &quot;Visits Ranking&quot;, &quot;app.analysis.day-visits&quot;: &quot;Day Visits&quot;, &quot;app.analysis.week&quot;: &quot;Week Ratio&quot;, &quot;app.analysis.day&quot;: &quot;Day Ratio&quot;, &quot;app.analysis.payments&quot;: &quot;Payments&quot;, &quot;app.analysis.conversion-rate&quot;: &quot;Conversion Rate&quot;, &quot;app.analysis.operational-effect&quot;: &quot;Operational Effect&quot;, &quot;app.analysis.sales-trend&quot;: &quot;Stores Sales Trend&quot;, &quot;app.analysis.sales-ranking&quot;: &quot;Sales Ranking&quot;, &quot;app.analysis.all-year&quot;: &quot;All Year&quot;, &quot;app.analysis.all-month&quot;: &quot;All Month&quot;, &quot;app.analysis.all-week&quot;: &quot;All Week&quot;, &quot;app.analysis.all-day&quot;: &quot;All day&quot;, &quot;app.analysis.search-users&quot;: &quot;Search Users&quot;, &quot;app.analysis.per-capita-search&quot;: &quot;Per Capita Search&quot;, &quot;app.analysis.online-top-search&quot;: &quot;Online Top Search&quot;, &quot;app.analysis.the-proportion-of-sales&quot;: &quot;The Proportion Of Sales&quot;, &quot;app.analysis.channel.all&quot;: &quot;ALL&quot;, &quot;app.analysis.channel.online&quot;: &quot;Online&quot;, &quot;app.analysis.channel.stores&quot;: &quot;Stores&quot;, &quot;app.analysis.sales&quot;: &quot;Sales&quot;, &quot;app.analysis.traffic&quot;: &quot;Traffic&quot;, &quot;app.analysis.table.rank&quot;: &quot;Rank&quot;, &quot;app.analysis.table.search-keyword&quot;: &quot;Keyword&quot;, &quot;app.analysis.table.users&quot;: &quot;Users&quot;, &quot;app.analysis.table.weekly-range&quot;: &quot;Weekly Range&quot;, &quot;app.monitor.trading-activity&quot;: &quot;Real-Time Trading Activity&quot;, &quot;app.monitor.total-transactions&quot;: &quot;Total transactions today&quot;, &quot;app.monitor.sales-target&quot;: &quot;Sales target completion rate&quot;, &quot;app.monitor.remaining-time&quot;: &quot;Remaining time of activity&quot;, &quot;app.monitor.total-transactions-per-second&quot;: &quot;Total transactions per second&quot;, &quot;app.monitor.activity-forecast&quot;: &quot;Activity forecast&quot;, &quot;app.monitor.efficiency&quot;: &quot;Efficiency&quot;, &quot;app.monitor.ratio&quot;: &quot;Ratio&quot;, &quot;app.monitor.proportion-per-category&quot;: &quot;Proportion Per Category&quot;, &quot;app.monitor.fast-food&quot;: &quot;Fast food&quot;, &quot;app.monitor.western-food&quot;: &quot;Western food&quot;, &quot;app.monitor.hot-pot&quot;: &quot;Hot pot&quot;, &quot;app.monitor.waiting-for-implementation&quot;: &quot;Waiting for implementation&quot;, &quot;app.monitor.popular-searches&quot;: &quot;Popular Searches&quot;, &quot;app.monitor.resource-surplus&quot;: &quot;Resource Surplus&quot;, &quot;app.monitor.fund-surplus&quot;: &quot;Fund Surplus&quot;, &quot;app.lock&quot;: &quot;Lock&quot;, &quot;app.login.message-invalid-credentials&quot;: &quot;Invalid username or password（adminant.design）&quot;, &quot;app.login.message-invalid-verification-code&quot;: &quot;Invalid verification code&quot;, &quot;app.login.tab-login-credentials&quot;: &quot;Credentials&quot;, &quot;app.login.tab-login-mobile&quot;: &quot;Mobile number&quot;, &quot;app.login.remember-me&quot;: &quot;Remember me&quot;, &quot;app.login.forgot-password&quot;: &quot;Forgot your password?&quot;, &quot;app.login.sign-in-with&quot;: &quot;Bejelentkezés ezzel&quot;, &quot;app.login.signup&quot;: &quot;Sign up&quot;, &quot;app.login.login&quot;: &quot;Login&quot;, &quot;app.register.register&quot;: &quot;Register&quot;, &quot;app.register.get-verification-code&quot;: &quot;Get code&quot;, &quot;app.register.sign-in&quot;: &quot;Already have an account?&quot;, &quot;app.register-result.msg&quot;: &quot;Account：registered at {{email}}&quot;, &quot;app.register-result.activation-email&quot;: &quot;The activation email has been sent to your email address and is valid for 24 hours. Please log in to the email in time and click on the link in the email to activate the account.&quot;, &quot;app.register-result.back-home&quot;: &quot;Back to home&quot;, &quot;app.register-result.view-mailbox&quot;: &quot;View mailbox&quot;, &quot;validation.email.required&quot;: &quot;Please enter your email!&quot;, &quot;validation.email.wrong-format&quot;: &quot;The email address is in the wrong format!&quot;, &quot;validation.password.required&quot;: &quot;Please enter your password!&quot;, &quot;validation.password.twice&quot;: &quot;The passwords entered twice do not match!&quot;, &quot;validation.password.strength.msg&quot;: &quot;Please enter at least 6 characters and don't use passwords that are easy to guess.&quot;, &quot;validation.password.strength.strong&quot;: &quot;Strength: strong&quot;, &quot;validation.password.strength.medium&quot;: &quot;Strength: medium&quot;, &quot;validation.password.strength.short&quot;: &quot;Strength: too short&quot;, &quot;validation.confirm-password.required&quot;: &quot;Please confirm your password!&quot;, &quot;validation.phone-number.required&quot;: &quot;Please enter your phone number!&quot;, &quot;validation.phone-number.wrong-format&quot;: &quot;Malformed phone number!&quot;, &quot;validation.verification-code.required&quot;: &quot;Please enter the verification code!&quot;, &quot;validation.title.required&quot;: &quot;Please enter a title&quot;, &quot;validation.date.required&quot;: &quot;Please select the start and end date&quot;, &quot;validation.goal.required&quot;: &quot;Please enter a description of the goal&quot;, &quot;validation.standard.required&quot;: &quot;Please enter a metric&quot; }" />
-      <item value="ezzel" />
-      <item value="ROLE CUSTOM ANONYMOUS" />
-      <item value="建议统一在" />
-      <item value="目录下自定义小部件" />
-      <item value="目录下注册即可" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="50" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="51" />
+        <entry key="HUNGARIAN" value="65" />
       </map>
     </option>
   </component>
