@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="395" />
-    <option name="newTranslationDialogWidth" value="422" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="278" />
     <histories>
+      <item value="túlórák" />
+      <item value="túló" />
+      <item value="túlóü" />
       <item value="Non-insertable fields must be absent from query." />
       <item value="term" />
       <item value="Vocabulary" />
@@ -53,16 +56,13 @@
       <item value="scope" />
       <item value="function" />
       <item value="instance" />
-      <item value="deploy" />
-      <item value="depo" />
-      <item value="Either" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="53" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="66" />
+        <entry key="HUNGARIAN" value="69" />
       </map>
     </option>
   </component>
