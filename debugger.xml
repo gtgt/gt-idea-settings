@@ -82,7 +82,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
     </general>
