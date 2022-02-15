@@ -16,6 +16,7 @@
       <mapping pattern="build-angular-api-client-new" type="AUTO_DETECTED" />
       <mapping pattern="dotenv" type="AUTO_DETECTED" />
       <mapping ext="part" type="AUTO_DETECTED" />
+      <mapping ext="dist" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="AUTO_DETECTED" />
       <mapping ext="conf" type="AUTO_DETECTED" />
       <mapping ext="message" type="HTML" />
