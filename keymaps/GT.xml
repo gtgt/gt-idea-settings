@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta space" />
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
@@ -46,10 +47,6 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="shift alt c" />
@@ -138,7 +135,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Symfony2Symbols">
-    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f1" />
