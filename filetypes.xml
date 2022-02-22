@@ -22,6 +22,7 @@
       <mapping ext="tmpl" type="AUTO_DETECTED" />
       <mapping ext="conf" type="AUTO_DETECTED" />
       <mapping ext="message" type="HTML" />
+      <mapping ext="cf" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="map" type="JSON" />
       <mapping ext="mp4" type="Native" />
