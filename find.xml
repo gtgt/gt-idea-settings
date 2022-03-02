@@ -28,7 +28,7 @@
     <mask>*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.yaml,*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.php</mask>
   </component>
 </application>
