@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Configuration.php" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
@@ -32,5 +33,6 @@
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*Configuration.php</mask>
   </component>
 </application>
