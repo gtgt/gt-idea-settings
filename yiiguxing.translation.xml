@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="278" />
     <histories>
+      <item value="constraints" />
       <item value="ancestor" />
       <item value="Sajtókapcsolat" />
       <item value="Közleményeink" />
@@ -55,14 +56,13 @@
       <item value="testreszabás" />
       <item value="entity" />
       <item value="ferment" />
-      <item value="int" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="56" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="71" />
+        <entry key="HUNGARIAN" value="72" />
       </map>
     </option>
   </component>
