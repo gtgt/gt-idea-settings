@@ -28,10 +28,10 @@
     <mask>*.java</mask>
     <mask>composer.json</mask>
     <mask>*.xml</mask>
-    <mask>*.yaml,*.yml</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*Configuration.php</mask>
     <mask>*.php</mask>
+    <mask>*.yaml,*.yml</mask>
   </component>
 </application>
