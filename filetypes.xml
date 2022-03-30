@@ -62,6 +62,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="diff" approved="true" type="PATCH" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="kmz" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="message" approved="true" type="PLAIN_TEXT" />
