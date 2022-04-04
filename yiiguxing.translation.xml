@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="395" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="430" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="278" />
     <histories>
+      <item value="alias" />
       <item value="non-changed config settings doesn't want to be in database" />
       <item value="non-changed config settings aren't want to be in database" />
       <item value="constraints" />
@@ -55,14 +56,13 @@
       <item value="Setting" />
       <item value="related" />
       <item value="package" />
-      <item value="testreszabás" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="56" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="74" />
+        <entry key="HUNGARIAN" value="75" />
       </map>
     </option>
   </component>
