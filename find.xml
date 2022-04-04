@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="EntityVersion" />
-    <option name="defaultScopeName" value="EntityVersion" />
-    <option name="SEARCH_SCOPE" value="EntityVersion" />
+    <option name="customScope" value="Directory '…/src/EntityVersion'" />
+    <option name="defaultScopeName" value="Directory '…/src/EntityVersion'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/src/EntityVersion'" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
