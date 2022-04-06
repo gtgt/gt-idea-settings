@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="395" />
-    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogWidth" value="428" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="278" />
     <histories>
+      <item value="érintett&#10;" />
+      <item value="kizsákmányol" />
+      <item value="kizsa" />
+      <item value="oka van" />
       <item value="alias" />
       <item value="non-changed config settings doesn't want to be in database" />
       <item value="non-changed config settings aren't want to be in database" />
@@ -52,22 +56,18 @@
       <item value="lehetséges" />
       <item value="összefüggő" />
       <item value="engible" />
-      <item value="értelmezhető" />
-      <item value="Setting" />
-      <item value="related" />
-      <item value="package" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="60" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="75" />
+        <entry key="HUNGARIAN" value="79" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648745967825" />
+    <option name="lastTrimTime" value="1649253253476" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
