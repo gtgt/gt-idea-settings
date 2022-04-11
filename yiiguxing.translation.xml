@@ -1,11 +1,52 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="395" />
-    <option name="newTranslationDialogWidth" value="428" />
+    <option name="newTranslationDialogHeight" value="353" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="796" />
-    <option name="newTranslationDialogY" value="278" />
+    <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="szervezeti ábra" />
+      <item value="szervezeti á" />
+      <item value="get Query" />
+      <item value="oktatási itézmény" />
+      <item value="műsor" />
+      <item value="Division" />
+      <item value="Sports" />
+      <item value="Sportág" />
+      <item value="Sport" />
+      <item value="organization" />
+      <item value="szervezet" />
+      <item value="Intézmény" />
+      <item value="concept" />
+      <item value="term" />
+      <item value="terminus" />
+      <item value="phase" />
+      <item value="notion" />
+      <item value="fogalom" />
+      <item value="fogalomn" />
+      <item value="jelleg" />
+      <item value="jel" />
+      <item value="mivolta" />
+      <item value="jellege" />
+      <item value="APP ENV" />
+      <item value="referent" />
+      <item value="topic" />
+      <item value="subject matter" />
+      <item value="subject" />
+      <item value="rendeltetés" />
+      <item value="tevékenység" />
+      <item value="tevé" />
+      <item value="tev" />
+      <item value="céltárgy" />
+      <item value="tárgy" />
+      <item value="tágy" />
+      <item value="tá5gy" />
+      <item value="tátgy" />
+      <item value="profile" />
+      <item value="adatlap" />
+      <item value="adatl" />
+      <item value="lock" />
       <item value="érintett&#10;" />
       <item value="kizsákmányol" />
       <item value="kizsa" />
@@ -15,54 +56,13 @@
       <item value="non-changed config settings aren't want to be in database" />
       <item value="constraints" />
       <item value="ancestor" />
-      <item value="Sajtókapcsolat" />
-      <item value="Közleményeink" />
-      <item value="túlórák" />
-      <item value="túló" />
-      <item value="túlóü" />
-      <item value="Non-insertable fields must be absent from query." />
-      <item value="term" />
-      <item value="Vocabulary" />
-      <item value="tipusú" />
-      <item value="típusú" />
-      <item value="Layout" />
-      <item value="s" />
-      <item value="Scope" />
-      <item value="Vázlat" />
-      <item value="Widget" />
-      <item value="Szövegtörzs" />
-      <item value="Hírdetés" />
-      <item value="H" />
-      <item value="Krízis" />
-      <item value="Krzis" />
-      <item value="Kryzis" />
-      <item value="Krizis" />
-      <item value="Breaking news" />
-      <item value="Breaking " />
-      <item value="Feed Aggregator Target" />
-      <item value="toggleable" />
-      <item value="toggable" />
-      <item value="'cache.global clearer'" />
-      <item value="caching" />
-      <item value="assertion" />
-      <item value="Assertion" />
-      <item value="Assert" />
-      <item value="constraint" />
-      <item value="validato" />
-      <item value="validator" />
-      <item value="valid" />
-      <item value="availibility" />
-      <item value="a" />
-      <item value="lehetséges" />
-      <item value="összefüggő" />
-      <item value="engible" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="84" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="79" />
+        <entry key="HUNGARIAN" value="107" />
       </map>
     </option>
   </component>
