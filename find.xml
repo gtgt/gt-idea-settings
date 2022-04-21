@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
@@ -27,10 +27,10 @@
     <mask>composer.json</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*Configuration.php</mask>
     <mask>*.scss</mask>
     <mask>*.yaml,*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
