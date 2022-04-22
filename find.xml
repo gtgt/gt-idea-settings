@@ -28,9 +28,9 @@
     <mask>*.html</mask>
     <mask>*Configuration.php</mask>
     <mask>*.scss</mask>
-    <mask>*.yaml,*.yml</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.yaml,*.yml</mask>
   </component>
 </application>
