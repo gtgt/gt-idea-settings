@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="attr" value="use Doctrine\ORM\Mapping as ORM;&#10;use Symfony\Component\Serializer\Annotation as Serializer;&#10;use Symfony\Component\Validator\Constraints as Assert;" description="Attribute group aliases" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
