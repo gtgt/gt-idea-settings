@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="attr" value="use Doctrine\ORM\Mapping as ORM;&#10;use Symfony\Component\Serializer\Annotation as Serializer;&#10;use Symfony\Component\Validator\Constraints as Assert;" description="Attribute group aliases" toReformat="false" toShortenFQNames="true">
+  <template name="attr" value="use App\Bundle\FxpSecurity\Annotation as FxpSecurity;&#10;use App\Metadata\Form;&#10;use Doctrine\ORM\Mapping as ORM;&#10;use Symfony\Component\Serializer\Annotation as Serializer;&#10;use Symfony\Component\Validator\Constraints as Assert;" description="Attribute group aliases" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
