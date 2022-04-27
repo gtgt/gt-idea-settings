@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="353" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="422" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="closure" />
+      <item value="branch" />
       <item value="(string)(new AsciiSlugger())-&gt;slug(name, '_')" />
       <item value="minőség" />
       <item value="min" />
@@ -54,15 +56,13 @@
       <item value="céltárgy" />
       <item value="tárgy" />
       <item value="tágy" />
-      <item value="tá5gy" />
-      <item value="tátgy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="119" />
+        <entry key="HUNGARIAN" value="121" />
       </map>
     </option>
   </component>
