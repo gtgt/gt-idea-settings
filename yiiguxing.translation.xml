@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="353" />
-    <option name="newTranslationDialogWidth" value="420" />
+    <option name="newTranslationDialogWidth" value="418" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="piszkál" />
+      <item value="piszká" />
+      <item value="piszk" />
       <item value="doesn't" />
       <item value="doesn'" />
       <item value="doesn" />
@@ -53,16 +56,13 @@
       <item value="APP ENV" />
       <item value="referent" />
       <item value="topic" />
-      <item value="subject matter" />
-      <item value="subject" />
-      <item value="rendeltetés" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="124" />
+        <entry key="HUNGARIAN" value="126" />
       </map>
     </option>
   </component>
