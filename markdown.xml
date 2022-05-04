@@ -2,6 +2,7 @@
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;Droid Sans&quot;;&#10;    font-size: 90%;&#10;}">
       <option name="fontFamily" value="JetBrains Mono" />
+      <option name="fontSize" value="11" />
     </MarkdownCssSettings>
     <MarkdownPreviewSettings VerticalSplit="false" />
     <enabledExtensions>
