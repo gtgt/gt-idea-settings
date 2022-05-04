@@ -1,7 +1,9 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;Droid Sans&quot;;&#10;    font-size: 90%;&#10;}" />
-    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only" VerticalSplit="false" />
+    <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    font-family: &quot;Droid Sans&quot;;&#10;    font-size: 90%;&#10;}">
+      <option name="fontFamily" value="JetBrains Mono" />
+    </MarkdownCssSettings>
+    <MarkdownPreviewSettings VerticalSplit="false" />
     <enabledExtensions>
       <entry key="MermaidLanguageExtension" value="false" />
       <entry key="PlantUMLLanguageExtension" value="false" />
