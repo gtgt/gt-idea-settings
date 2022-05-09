@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="especially" />
       <item value="piszkál" />
       <item value="piszká" />
       <item value="piszk" />
@@ -55,14 +56,13 @@
       <item value="jellege" />
       <item value="APP ENV" />
       <item value="referent" />
-      <item value="topic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="100" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="126" />
+        <entry key="HUNGARIAN" value="127" />
       </map>
     </option>
   </component>
