@@ -18,6 +18,7 @@
       <mapping pattern="heap-size" type="AUTO_DETECTED" />
       <mapping pattern="build-angular-api-client-new" type="AUTO_DETECTED" />
       <mapping pattern="dotenv" type="AUTO_DETECTED" />
+      <mapping ext="bak" type="AUTO_DETECTED" />
       <mapping ext="part" type="AUTO_DETECTED" />
       <mapping ext="dist" type="AUTO_DETECTED" />
       <mapping ext="key" type="AUTO_DETECTED" />
