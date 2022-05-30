@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="353" />
-    <option name="newTranslationDialogWidth" value="416" />
+    <option name="newTranslationDialogWidth" value="414" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="nem kell felülírni" />
+      <item value="doesn't have to be overwritten" />
       <item value="Anonynimizer" />
       <item value="Anoninimizer" />
       <item value="Aninimizer" />
@@ -54,20 +56,18 @@
       <item value="terminus" />
       <item value="phase" />
       <item value="notion" />
-      <item value="fogalom" />
-      <item value="fogalomn" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="129" />
+        <entry key="HUNGARIAN" value="131" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652716024354" />
+    <option name="lastTrimTime" value="1653947094433" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
