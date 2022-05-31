@@ -152,7 +152,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowReformatFileDialog" is_action="true" action_type="1" position="13">
+    <group value="EditorToggleUseSoftWraps" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -162,7 +162,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CommentByLineComment" is_action="true" action_type="1" position="14">
+    <group value="ShowReformatFileDialog" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -172,7 +172,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CommentByBlockComment" is_action="true" action_type="1" position="15">
+    <group value="CommentByLineComment" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -180,6 +180,11 @@
     <group value="CompareFileWithEditor" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CommentByBlockComment" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="CommentByBlockComment" icon="/opt/jetbrains-icons/actions/GroupByClass_dark.png" />
