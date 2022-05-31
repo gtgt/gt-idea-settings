@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="353" />
-    <option name="newTranslationDialogWidth" value="414" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="reprobate" />
+      <item value="Mihaszna" />
+      <item value="Semmirekellő" />
+      <item value="Lazy" />
       <item value="nem kell felülírni" />
       <item value="doesn't have to be overwritten" />
       <item value="Anonynimizer" />
@@ -52,17 +56,13 @@
       <item value="szervezet" />
       <item value="Intézmény" />
       <item value="concept" />
-      <item value="term" />
-      <item value="terminus" />
-      <item value="phase" />
-      <item value="notion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="106" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="131" />
+        <entry key="HUNGARIAN" value="135" />
       </map>
     </option>
   </component>
