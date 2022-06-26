@@ -6,12 +6,12 @@
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="reprobate" />
       <item value="további" />
       <item value="tov" />
       <item value="továb" />
       <item value="tv" />
       <item value="then" />
-      <item value="reprobate" />
       <item value="Mihaszna" />
       <item value="Semmirekellő" />
       <item value="Lazy" />
@@ -62,7 +62,7 @@
         <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="108" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="137" />
+        <entry key="HUNGARIAN" value="138" />
       </map>
     </option>
   </component>
