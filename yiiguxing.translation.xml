@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="353" />
-    <option name="newTranslationDialogWidth" value="422" />
-    <option name="newTranslationDialogX" value="796" />
-    <option name="newTranslationDialogY" value="262" />
+    <option name="newTranslationDialogHeight" value="333" />
+    <option name="newTranslationDialogWidth" value="420" />
+    <option name="newTranslationDialogX" value="747" />
+    <option name="newTranslationDialogY" value="810" />
     <histories>
+      <item value="compilation" />
+      <item value="összeállítás" />
+      <item value="összeállítani" />
+      <item value="compile" />
+      <item value="co" />
+      <item value="translation" />
+      <item value="fordítás" />
+      <item value="fordít" />
       <item value="reprobate" />
       <item value="további" />
       <item value="tov" />
@@ -48,26 +56,18 @@
       <item value="beosztás" />
       <item value="be" />
       <item value="szervezeti egység" />
-      <item value="szervezeti ábra" />
-      <item value="szervezeti á" />
-      <item value="get Query" />
-      <item value="oktatási itézmény" />
-      <item value="műsor" />
-      <item value="Division" />
-      <item value="Sports" />
-      <item value="Sportág" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="113" />
         <entry key="GERMAN" value="14" />
-        <entry key="HUNGARIAN" value="138" />
+        <entry key="HUNGARIAN" value="143" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656277599672" />
+    <option name="lastTrimTime" value="1660612503174" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
