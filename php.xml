@@ -7,14 +7,14 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="local-default">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="8.0.11">
-          <additional_php_ini>/etc/php/conf.d/apcu.ini, /etc/php/conf.d/bcmath.ini, /etc/php/conf.d/exif.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/gmp.ini, /etc/php/conf.d/iconv.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/intl.ini, /etc/php/conf.d/memcached.ini, /etc/php/conf.d/pdo.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/sodium.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="8.1.9">
+          <additional_php_ini>/etc/php/conf.d/apcu.ini, /etc/php/conf.d/bcmath.ini, /etc/php/conf.d/exif.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/gmp.ini, /etc/php/conf.d/iconv.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/intl.ini, /etc/php/conf.d/ldap.ini, /etc/php/conf.d/memcached.ini, /etc/php/conf.d/opcache.ini, /etc/php/conf.d/pdo.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/sodium.ini, /etc/php/conf.d/xdebug.ini, /etc/php/conf.d/xsl.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+            <debugger_info debugger="xdebug" debugger_version="3.1.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -25,6 +25,7 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
             <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="ctype" />
@@ -41,6 +42,7 @@
             <extension name="igbinary" />
             <extension name="intl" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="memcached" />
@@ -49,6 +51,8 @@
             <extension name="pcntl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="redis" />
@@ -60,6 +64,7 @@
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
+            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
