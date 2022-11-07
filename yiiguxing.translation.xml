@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="810" />
     <histories>
+      <item value="Function Name" />
       <item value="uploads-batch-notifier" />
       <item value="&lt;script lang=&quot;ts&quot;&gt; import Vue from 'vue'; import SubscribeForm from &quot;~componentsSubscribeForm.vue&quot;; export default Vue.extend({ name: 'UploadPage'," />
       <item value="await prisma.file.findMany({ where: { published: true } })" />
@@ -55,12 +56,11 @@
       <item value="sportszer" />
       <item value="munkakör" />
       <item value="munkak" />
-      <item value="munkakpr" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="GERMAN" value="14" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="143" />
