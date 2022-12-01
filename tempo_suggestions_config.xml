@@ -1,0 +1,5 @@
+<application>
+  <component name="TempoSuggestionsConfig">
+    <option name="trackedRepos" value="$USER_HOME$/www/_epam/oneinc/insurpay_payment_service" />
+  </component>
+</application>
