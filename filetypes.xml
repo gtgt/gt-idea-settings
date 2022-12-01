@@ -32,6 +32,9 @@
       <mapping ext="cf" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="map" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="*.php.bak" type="PHP" />
       <mapping pattern="console" type="PHP" />
@@ -84,9 +87,6 @@
       <removed_mapping pattern="50-www-env" approved="true" type="Shell Script" />
       <removed_mapping pattern="nginx/*.conf" approved="true" type="nginx" />
       <removed_mapping pattern="oro_require_js" approved="true" type="YAML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern="drun" type="Bash" />
     </extensionMap>
   </component>

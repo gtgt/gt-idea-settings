@@ -3,5 +3,6 @@
     <option name="firstRun" value="false" />
     <option name="proxySupport" value="Off" />
     <option name="serverUrl" value="https://eu-api.codestream.com" />
+    <option name="teamId" value="62dfd565c46462519c16ed38" />
   </component>
 </application>
