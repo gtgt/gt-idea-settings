@@ -28,6 +28,7 @@
       <mapping ext="conf" type="AUTO_DETECTED" />
       <mapping ext="expect" type="AUTO_DETECTED" />
       <mapping ext="j2" type="AUTO_DETECTED" />
+      <mapping pattern=".springBeans" type="Eclipse" />
       <mapping ext="message" type="HTML" />
       <mapping ext="cf" type="Ini" />
       <mapping pattern=".arcconfig" type="JSON" />
@@ -55,6 +56,8 @@
       <mapping ext="alertdb" type="PLAIN_TEXT" />
       <mapping ext="legacy" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern="spring.handlers" type="Properties" />
+      <mapping pattern="spring.schemas" type="Properties" />
       <mapping pattern="compat-retail-site" type="SCSS" />
       <mapping pattern="*.smarty.conf" type="SmartyConfig" />
       <mapping pattern="*.policy.bak" type="XML" />
