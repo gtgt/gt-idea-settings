@@ -75,4 +75,18 @@
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="takeWordWhenDialogOpens" value="true" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670028435640" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="&quot;Submitted to Payment Gateway&quot;" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="HUNGARIAN" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
