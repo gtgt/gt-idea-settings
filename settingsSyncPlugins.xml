@@ -292,9 +292,7 @@
         </entry>
         <entry key="com.intellij.javaee.gradle">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.javaee.jpa">
@@ -508,9 +506,7 @@
         </entry>
         <entry key="com.jetbrains.performancePlugin.gradle">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.jetbrains.performancePlugin.kotlin">
@@ -607,9 +603,7 @@
         </entry>
         <entry key="com.jetbrains.restWebServices">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.jetbrains.space">
@@ -969,7 +963,6 @@
                   <option value="com.intellij.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -982,7 +975,6 @@
                   <option value="org.jetbrains.idea.gradle.dsl" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
